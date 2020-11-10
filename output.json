@@ -1,0 +1,5834 @@
+[
+  {
+    "id": "500px",
+    "type": "brands"
+  },
+  {
+    "id": "accessible-icon",
+    "type": "brands"
+  },
+  {
+    "id": "accusoft",
+    "type": "brands"
+  },
+  {
+    "id": "acquisitions-incorporated",
+    "type": "brands"
+  },
+  {
+    "id": "ad",
+    "type": "solid"
+  },
+  {
+    "id": "address-book",
+    "type": "regular"
+  },
+  {
+    "id": "address-card",
+    "type": "regular"
+  },
+  {
+    "id": "adjust",
+    "type": "solid"
+  },
+  {
+    "id": "adn",
+    "type": "brands"
+  },
+  {
+    "id": "adversal",
+    "type": "brands"
+  },
+  {
+    "id": "affiliatetheme",
+    "type": "brands"
+  },
+  {
+    "id": "air-freshener",
+    "type": "solid"
+  },
+  {
+    "id": "airbnb",
+    "type": "brands"
+  },
+  {
+    "id": "algolia",
+    "type": "brands"
+  },
+  {
+    "id": "align-center",
+    "type": "solid"
+  },
+  {
+    "id": "align-justify",
+    "type": "solid"
+  },
+  {
+    "id": "align-left",
+    "type": "solid"
+  },
+  {
+    "id": "align-right",
+    "type": "solid"
+  },
+  {
+    "id": "alipay",
+    "type": "brands"
+  },
+  {
+    "id": "allergies",
+    "type": "solid"
+  },
+  {
+    "id": "amazon",
+    "type": "brands"
+  },
+  {
+    "id": "amazon-pay",
+    "type": "brands"
+  },
+  {
+    "id": "ambulance",
+    "type": "solid"
+  },
+  {
+    "id": "american-sign-language-interpreting",
+    "type": "solid"
+  },
+  {
+    "id": "amilia",
+    "type": "brands"
+  },
+  {
+    "id": "anchor",
+    "type": "solid"
+  },
+  {
+    "id": "android",
+    "type": "brands"
+  },
+  {
+    "id": "angellist",
+    "type": "brands"
+  },
+  {
+    "id": "angle-double-down",
+    "type": "solid"
+  },
+  {
+    "id": "angle-double-left",
+    "type": "solid"
+  },
+  {
+    "id": "angle-double-right",
+    "type": "solid"
+  },
+  {
+    "id": "angle-double-up",
+    "type": "solid"
+  },
+  {
+    "id": "angle-down",
+    "type": "solid"
+  },
+  {
+    "id": "angle-left",
+    "type": "solid"
+  },
+  {
+    "id": "angle-right",
+    "type": "solid"
+  },
+  {
+    "id": "angle-up",
+    "type": "solid"
+  },
+  {
+    "id": "angry",
+    "type": "regular"
+  },
+  {
+    "id": "angrycreative",
+    "type": "brands"
+  },
+  {
+    "id": "angular",
+    "type": "brands"
+  },
+  {
+    "id": "ankh",
+    "type": "solid"
+  },
+  {
+    "id": "app-store",
+    "type": "brands"
+  },
+  {
+    "id": "app-store-ios",
+    "type": "brands"
+  },
+  {
+    "id": "apper",
+    "type": "brands"
+  },
+  {
+    "id": "apple",
+    "type": "brands"
+  },
+  {
+    "id": "apple-alt",
+    "type": "solid"
+  },
+  {
+    "id": "apple-pay",
+    "type": "brands"
+  },
+  {
+    "id": "archive",
+    "type": "solid"
+  },
+  {
+    "id": "archway",
+    "type": "solid"
+  },
+  {
+    "id": "arrow-alt-circle-down",
+    "type": "regular"
+  },
+  {
+    "id": "arrow-alt-circle-left",
+    "type": "regular"
+  },
+  {
+    "id": "arrow-alt-circle-right",
+    "type": "regular"
+  },
+  {
+    "id": "arrow-alt-circle-up",
+    "type": "regular"
+  },
+  {
+    "id": "arrow-circle-down",
+    "type": "solid"
+  },
+  {
+    "id": "arrow-circle-left",
+    "type": "solid"
+  },
+  {
+    "id": "arrow-circle-right",
+    "type": "solid"
+  },
+  {
+    "id": "arrow-circle-up",
+    "type": "solid"
+  },
+  {
+    "id": "arrow-down",
+    "type": "solid"
+  },
+  {
+    "id": "arrow-left",
+    "type": "solid"
+  },
+  {
+    "id": "arrow-right",
+    "type": "solid"
+  },
+  {
+    "id": "arrow-up",
+    "type": "solid"
+  },
+  {
+    "id": "arrows-alt",
+    "type": "solid"
+  },
+  {
+    "id": "arrows-alt-h",
+    "type": "solid"
+  },
+  {
+    "id": "arrows-alt-v",
+    "type": "solid"
+  },
+  {
+    "id": "artstation",
+    "type": "brands"
+  },
+  {
+    "id": "assistive-listening-systems",
+    "type": "solid"
+  },
+  {
+    "id": "asterisk",
+    "type": "solid"
+  },
+  {
+    "id": "asymmetrik",
+    "type": "brands"
+  },
+  {
+    "id": "at",
+    "type": "solid"
+  },
+  {
+    "id": "atlas",
+    "type": "solid"
+  },
+  {
+    "id": "atlassian",
+    "type": "brands"
+  },
+  {
+    "id": "atom",
+    "type": "solid"
+  },
+  {
+    "id": "audible",
+    "type": "brands"
+  },
+  {
+    "id": "audio-description",
+    "type": "solid"
+  },
+  {
+    "id": "autoprefixer",
+    "type": "brands"
+  },
+  {
+    "id": "avianex",
+    "type": "brands"
+  },
+  {
+    "id": "aviato",
+    "type": "brands"
+  },
+  {
+    "id": "award",
+    "type": "solid"
+  },
+  {
+    "id": "aws",
+    "type": "brands"
+  },
+  {
+    "id": "baby",
+    "type": "solid"
+  },
+  {
+    "id": "baby-carriage",
+    "type": "solid"
+  },
+  {
+    "id": "backspace",
+    "type": "solid"
+  },
+  {
+    "id": "backward",
+    "type": "solid"
+  },
+  {
+    "id": "bacon",
+    "type": "solid"
+  },
+  {
+    "id": "bacteria",
+    "type": "solid"
+  },
+  {
+    "id": "bacterium",
+    "type": "solid"
+  },
+  {
+    "id": "bahai",
+    "type": "solid"
+  },
+  {
+    "id": "balance-scale",
+    "type": "solid"
+  },
+  {
+    "id": "balance-scale-left",
+    "type": "solid"
+  },
+  {
+    "id": "balance-scale-right",
+    "type": "solid"
+  },
+  {
+    "id": "ban",
+    "type": "solid"
+  },
+  {
+    "id": "band-aid",
+    "type": "solid"
+  },
+  {
+    "id": "bandcamp",
+    "type": "brands"
+  },
+  {
+    "id": "barcode",
+    "type": "solid"
+  },
+  {
+    "id": "bars",
+    "type": "solid"
+  },
+  {
+    "id": "baseball-ball",
+    "type": "solid"
+  },
+  {
+    "id": "basketball-ball",
+    "type": "solid"
+  },
+  {
+    "id": "bath",
+    "type": "solid"
+  },
+  {
+    "id": "battery-empty",
+    "type": "solid"
+  },
+  {
+    "id": "battery-full",
+    "type": "solid"
+  },
+  {
+    "id": "battery-half",
+    "type": "solid"
+  },
+  {
+    "id": "battery-quarter",
+    "type": "solid"
+  },
+  {
+    "id": "battery-three-quarters",
+    "type": "solid"
+  },
+  {
+    "id": "battle-net",
+    "type": "brands"
+  },
+  {
+    "id": "bed",
+    "type": "solid"
+  },
+  {
+    "id": "beer",
+    "type": "solid"
+  },
+  {
+    "id": "behance",
+    "type": "brands"
+  },
+  {
+    "id": "behance-square",
+    "type": "brands"
+  },
+  {
+    "id": "bell",
+    "type": "regular"
+  },
+  {
+    "id": "bell-slash",
+    "type": "regular"
+  },
+  {
+    "id": "bezier-curve",
+    "type": "solid"
+  },
+  {
+    "id": "bible",
+    "type": "solid"
+  },
+  {
+    "id": "bicycle",
+    "type": "solid"
+  },
+  {
+    "id": "biking",
+    "type": "solid"
+  },
+  {
+    "id": "bimobject",
+    "type": "brands"
+  },
+  {
+    "id": "binoculars",
+    "type": "solid"
+  },
+  {
+    "id": "biohazard",
+    "type": "solid"
+  },
+  {
+    "id": "birthday-cake",
+    "type": "solid"
+  },
+  {
+    "id": "bitbucket",
+    "type": "brands"
+  },
+  {
+    "id": "bitcoin",
+    "type": "brands"
+  },
+  {
+    "id": "bity",
+    "type": "brands"
+  },
+  {
+    "id": "black-tie",
+    "type": "brands"
+  },
+  {
+    "id": "blackberry",
+    "type": "brands"
+  },
+  {
+    "id": "blender",
+    "type": "solid"
+  },
+  {
+    "id": "blender-phone",
+    "type": "solid"
+  },
+  {
+    "id": "blind",
+    "type": "solid"
+  },
+  {
+    "id": "blog",
+    "type": "solid"
+  },
+  {
+    "id": "blogger",
+    "type": "brands"
+  },
+  {
+    "id": "blogger-b",
+    "type": "brands"
+  },
+  {
+    "id": "bluetooth",
+    "type": "brands"
+  },
+  {
+    "id": "bluetooth-b",
+    "type": "brands"
+  },
+  {
+    "id": "bold",
+    "type": "solid"
+  },
+  {
+    "id": "bolt",
+    "type": "solid"
+  },
+  {
+    "id": "bomb",
+    "type": "solid"
+  },
+  {
+    "id": "bone",
+    "type": "solid"
+  },
+  {
+    "id": "bong",
+    "type": "solid"
+  },
+  {
+    "id": "book",
+    "type": "solid"
+  },
+  {
+    "id": "book-dead",
+    "type": "solid"
+  },
+  {
+    "id": "book-medical",
+    "type": "solid"
+  },
+  {
+    "id": "book-open",
+    "type": "solid"
+  },
+  {
+    "id": "book-reader",
+    "type": "solid"
+  },
+  {
+    "id": "bookmark",
+    "type": "regular"
+  },
+  {
+    "id": "bootstrap",
+    "type": "brands"
+  },
+  {
+    "id": "border-all",
+    "type": "solid"
+  },
+  {
+    "id": "border-none",
+    "type": "solid"
+  },
+  {
+    "id": "border-style",
+    "type": "solid"
+  },
+  {
+    "id": "bowling-ball",
+    "type": "solid"
+  },
+  {
+    "id": "box",
+    "type": "solid"
+  },
+  {
+    "id": "box-open",
+    "type": "solid"
+  },
+  {
+    "id": "box-tissue",
+    "type": "solid"
+  },
+  {
+    "id": "boxes",
+    "type": "solid"
+  },
+  {
+    "id": "braille",
+    "type": "solid"
+  },
+  {
+    "id": "brain",
+    "type": "solid"
+  },
+  {
+    "id": "bread-slice",
+    "type": "solid"
+  },
+  {
+    "id": "briefcase",
+    "type": "solid"
+  },
+  {
+    "id": "briefcase-medical",
+    "type": "solid"
+  },
+  {
+    "id": "broadcast-tower",
+    "type": "solid"
+  },
+  {
+    "id": "broom",
+    "type": "solid"
+  },
+  {
+    "id": "brush",
+    "type": "solid"
+  },
+  {
+    "id": "btc",
+    "type": "brands"
+  },
+  {
+    "id": "buffer",
+    "type": "brands"
+  },
+  {
+    "id": "bug",
+    "type": "solid"
+  },
+  {
+    "id": "building",
+    "type": "regular"
+  },
+  {
+    "id": "bullhorn",
+    "type": "solid"
+  },
+  {
+    "id": "bullseye",
+    "type": "solid"
+  },
+  {
+    "id": "burn",
+    "type": "solid"
+  },
+  {
+    "id": "buromobelexperte",
+    "type": "brands"
+  },
+  {
+    "id": "bus",
+    "type": "solid"
+  },
+  {
+    "id": "bus-alt",
+    "type": "solid"
+  },
+  {
+    "id": "business-time",
+    "type": "solid"
+  },
+  {
+    "id": "buy-n-large",
+    "type": "brands"
+  },
+  {
+    "id": "buysellads",
+    "type": "brands"
+  },
+  {
+    "id": "calculator",
+    "type": "solid"
+  },
+  {
+    "id": "calendar",
+    "type": "regular"
+  },
+  {
+    "id": "calendar-alt",
+    "type": "regular"
+  },
+  {
+    "id": "calendar-check",
+    "type": "regular"
+  },
+  {
+    "id": "calendar-day",
+    "type": "solid"
+  },
+  {
+    "id": "calendar-minus",
+    "type": "regular"
+  },
+  {
+    "id": "calendar-plus",
+    "type": "regular"
+  },
+  {
+    "id": "calendar-times",
+    "type": "regular"
+  },
+  {
+    "id": "calendar-week",
+    "type": "solid"
+  },
+  {
+    "id": "camera",
+    "type": "solid"
+  },
+  {
+    "id": "camera-retro",
+    "type": "solid"
+  },
+  {
+    "id": "campground",
+    "type": "solid"
+  },
+  {
+    "id": "canadian-maple-leaf",
+    "type": "brands"
+  },
+  {
+    "id": "candy-cane",
+    "type": "solid"
+  },
+  {
+    "id": "cannabis",
+    "type": "solid"
+  },
+  {
+    "id": "capsules",
+    "type": "solid"
+  },
+  {
+    "id": "car",
+    "type": "solid"
+  },
+  {
+    "id": "car-alt",
+    "type": "solid"
+  },
+  {
+    "id": "car-battery",
+    "type": "solid"
+  },
+  {
+    "id": "car-crash",
+    "type": "solid"
+  },
+  {
+    "id": "car-side",
+    "type": "solid"
+  },
+  {
+    "id": "caravan",
+    "type": "solid"
+  },
+  {
+    "id": "caret-down",
+    "type": "solid"
+  },
+  {
+    "id": "caret-left",
+    "type": "solid"
+  },
+  {
+    "id": "caret-right",
+    "type": "solid"
+  },
+  {
+    "id": "caret-square-down",
+    "type": "regular"
+  },
+  {
+    "id": "caret-square-left",
+    "type": "regular"
+  },
+  {
+    "id": "caret-square-right",
+    "type": "regular"
+  },
+  {
+    "id": "caret-square-up",
+    "type": "regular"
+  },
+  {
+    "id": "caret-up",
+    "type": "solid"
+  },
+  {
+    "id": "carrot",
+    "type": "solid"
+  },
+  {
+    "id": "cart-arrow-down",
+    "type": "solid"
+  },
+  {
+    "id": "cart-plus",
+    "type": "solid"
+  },
+  {
+    "id": "cash-register",
+    "type": "solid"
+  },
+  {
+    "id": "cat",
+    "type": "solid"
+  },
+  {
+    "id": "cc-amazon-pay",
+    "type": "brands"
+  },
+  {
+    "id": "cc-amex",
+    "type": "brands"
+  },
+  {
+    "id": "cc-apple-pay",
+    "type": "brands"
+  },
+  {
+    "id": "cc-diners-club",
+    "type": "brands"
+  },
+  {
+    "id": "cc-discover",
+    "type": "brands"
+  },
+  {
+    "id": "cc-jcb",
+    "type": "brands"
+  },
+  {
+    "id": "cc-mastercard",
+    "type": "brands"
+  },
+  {
+    "id": "cc-paypal",
+    "type": "brands"
+  },
+  {
+    "id": "cc-stripe",
+    "type": "brands"
+  },
+  {
+    "id": "cc-visa",
+    "type": "brands"
+  },
+  {
+    "id": "centercode",
+    "type": "brands"
+  },
+  {
+    "id": "centos",
+    "type": "brands"
+  },
+  {
+    "id": "certificate",
+    "type": "solid"
+  },
+  {
+    "id": "chair",
+    "type": "solid"
+  },
+  {
+    "id": "chalkboard",
+    "type": "solid"
+  },
+  {
+    "id": "chalkboard-teacher",
+    "type": "solid"
+  },
+  {
+    "id": "charging-station",
+    "type": "solid"
+  },
+  {
+    "id": "chart-area",
+    "type": "solid"
+  },
+  {
+    "id": "chart-bar",
+    "type": "regular"
+  },
+  {
+    "id": "chart-line",
+    "type": "solid"
+  },
+  {
+    "id": "chart-pie",
+    "type": "solid"
+  },
+  {
+    "id": "check",
+    "type": "solid"
+  },
+  {
+    "id": "check-circle",
+    "type": "regular"
+  },
+  {
+    "id": "check-double",
+    "type": "solid"
+  },
+  {
+    "id": "check-square",
+    "type": "regular"
+  },
+  {
+    "id": "cheese",
+    "type": "solid"
+  },
+  {
+    "id": "chess",
+    "type": "solid"
+  },
+  {
+    "id": "chess-bishop",
+    "type": "solid"
+  },
+  {
+    "id": "chess-board",
+    "type": "solid"
+  },
+  {
+    "id": "chess-king",
+    "type": "solid"
+  },
+  {
+    "id": "chess-knight",
+    "type": "solid"
+  },
+  {
+    "id": "chess-pawn",
+    "type": "solid"
+  },
+  {
+    "id": "chess-queen",
+    "type": "solid"
+  },
+  {
+    "id": "chess-rook",
+    "type": "solid"
+  },
+  {
+    "id": "chevron-circle-down",
+    "type": "solid"
+  },
+  {
+    "id": "chevron-circle-left",
+    "type": "solid"
+  },
+  {
+    "id": "chevron-circle-right",
+    "type": "solid"
+  },
+  {
+    "id": "chevron-circle-up",
+    "type": "solid"
+  },
+  {
+    "id": "chevron-down",
+    "type": "solid"
+  },
+  {
+    "id": "chevron-left",
+    "type": "solid"
+  },
+  {
+    "id": "chevron-right",
+    "type": "solid"
+  },
+  {
+    "id": "chevron-up",
+    "type": "solid"
+  },
+  {
+    "id": "child",
+    "type": "solid"
+  },
+  {
+    "id": "chrome",
+    "type": "brands"
+  },
+  {
+    "id": "chromecast",
+    "type": "brands"
+  },
+  {
+    "id": "church",
+    "type": "solid"
+  },
+  {
+    "id": "circle",
+    "type": "regular"
+  },
+  {
+    "id": "circle-notch",
+    "type": "solid"
+  },
+  {
+    "id": "city",
+    "type": "solid"
+  },
+  {
+    "id": "clinic-medical",
+    "type": "solid"
+  },
+  {
+    "id": "clipboard",
+    "type": "regular"
+  },
+  {
+    "id": "clipboard-check",
+    "type": "solid"
+  },
+  {
+    "id": "clipboard-list",
+    "type": "solid"
+  },
+  {
+    "id": "clock",
+    "type": "regular"
+  },
+  {
+    "id": "clone",
+    "type": "regular"
+  },
+  {
+    "id": "closed-captioning",
+    "type": "regular"
+  },
+  {
+    "id": "cloud",
+    "type": "solid"
+  },
+  {
+    "id": "cloud-download-alt",
+    "type": "solid"
+  },
+  {
+    "id": "cloud-meatball",
+    "type": "solid"
+  },
+  {
+    "id": "cloud-moon",
+    "type": "solid"
+  },
+  {
+    "id": "cloud-moon-rain",
+    "type": "solid"
+  },
+  {
+    "id": "cloud-rain",
+    "type": "solid"
+  },
+  {
+    "id": "cloud-showers-heavy",
+    "type": "solid"
+  },
+  {
+    "id": "cloud-sun",
+    "type": "solid"
+  },
+  {
+    "id": "cloud-sun-rain",
+    "type": "solid"
+  },
+  {
+    "id": "cloud-upload-alt",
+    "type": "solid"
+  },
+  {
+    "id": "cloudflare",
+    "type": "brands"
+  },
+  {
+    "id": "cloudscale",
+    "type": "brands"
+  },
+  {
+    "id": "cloudsmith",
+    "type": "brands"
+  },
+  {
+    "id": "cloudversify",
+    "type": "brands"
+  },
+  {
+    "id": "cocktail",
+    "type": "solid"
+  },
+  {
+    "id": "code",
+    "type": "solid"
+  },
+  {
+    "id": "code-branch",
+    "type": "solid"
+  },
+  {
+    "id": "codepen",
+    "type": "brands"
+  },
+  {
+    "id": "codiepie",
+    "type": "brands"
+  },
+  {
+    "id": "coffee",
+    "type": "solid"
+  },
+  {
+    "id": "cog",
+    "type": "solid"
+  },
+  {
+    "id": "cogs",
+    "type": "solid"
+  },
+  {
+    "id": "coins",
+    "type": "solid"
+  },
+  {
+    "id": "columns",
+    "type": "solid"
+  },
+  {
+    "id": "comment",
+    "type": "regular"
+  },
+  {
+    "id": "comment-alt",
+    "type": "regular"
+  },
+  {
+    "id": "comment-dollar",
+    "type": "solid"
+  },
+  {
+    "id": "comment-dots",
+    "type": "regular"
+  },
+  {
+    "id": "comment-medical",
+    "type": "solid"
+  },
+  {
+    "id": "comment-slash",
+    "type": "solid"
+  },
+  {
+    "id": "comments",
+    "type": "regular"
+  },
+  {
+    "id": "comments-dollar",
+    "type": "solid"
+  },
+  {
+    "id": "compact-disc",
+    "type": "solid"
+  },
+  {
+    "id": "compass",
+    "type": "regular"
+  },
+  {
+    "id": "compress",
+    "type": "solid"
+  },
+  {
+    "id": "compress-alt",
+    "type": "solid"
+  },
+  {
+    "id": "compress-arrows-alt",
+    "type": "solid"
+  },
+  {
+    "id": "concierge-bell",
+    "type": "solid"
+  },
+  {
+    "id": "confluence",
+    "type": "brands"
+  },
+  {
+    "id": "connectdevelop",
+    "type": "brands"
+  },
+  {
+    "id": "contao",
+    "type": "brands"
+  },
+  {
+    "id": "cookie",
+    "type": "solid"
+  },
+  {
+    "id": "cookie-bite",
+    "type": "solid"
+  },
+  {
+    "id": "copy",
+    "type": "regular"
+  },
+  {
+    "id": "copyright",
+    "type": "regular"
+  },
+  {
+    "id": "cotton-bureau",
+    "type": "brands"
+  },
+  {
+    "id": "couch",
+    "type": "solid"
+  },
+  {
+    "id": "cpanel",
+    "type": "brands"
+  },
+  {
+    "id": "creative-commons",
+    "type": "brands"
+  },
+  {
+    "id": "creative-commons-by",
+    "type": "brands"
+  },
+  {
+    "id": "creative-commons-nc",
+    "type": "brands"
+  },
+  {
+    "id": "creative-commons-nc-eu",
+    "type": "brands"
+  },
+  {
+    "id": "creative-commons-nc-jp",
+    "type": "brands"
+  },
+  {
+    "id": "creative-commons-nd",
+    "type": "brands"
+  },
+  {
+    "id": "creative-commons-pd",
+    "type": "brands"
+  },
+  {
+    "id": "creative-commons-pd-alt",
+    "type": "brands"
+  },
+  {
+    "id": "creative-commons-remix",
+    "type": "brands"
+  },
+  {
+    "id": "creative-commons-sa",
+    "type": "brands"
+  },
+  {
+    "id": "creative-commons-sampling",
+    "type": "brands"
+  },
+  {
+    "id": "creative-commons-sampling-plus",
+    "type": "brands"
+  },
+  {
+    "id": "creative-commons-share",
+    "type": "brands"
+  },
+  {
+    "id": "creative-commons-zero",
+    "type": "brands"
+  },
+  {
+    "id": "credit-card",
+    "type": "regular"
+  },
+  {
+    "id": "critical-role",
+    "type": "brands"
+  },
+  {
+    "id": "crop",
+    "type": "solid"
+  },
+  {
+    "id": "crop-alt",
+    "type": "solid"
+  },
+  {
+    "id": "cross",
+    "type": "solid"
+  },
+  {
+    "id": "crosshairs",
+    "type": "solid"
+  },
+  {
+    "id": "crow",
+    "type": "solid"
+  },
+  {
+    "id": "crown",
+    "type": "solid"
+  },
+  {
+    "id": "crutch",
+    "type": "solid"
+  },
+  {
+    "id": "css3",
+    "type": "brands"
+  },
+  {
+    "id": "css3-alt",
+    "type": "brands"
+  },
+  {
+    "id": "cube",
+    "type": "solid"
+  },
+  {
+    "id": "cubes",
+    "type": "solid"
+  },
+  {
+    "id": "cut",
+    "type": "solid"
+  },
+  {
+    "id": "cuttlefish",
+    "type": "brands"
+  },
+  {
+    "id": "d-and-d",
+    "type": "brands"
+  },
+  {
+    "id": "d-and-d-beyond",
+    "type": "brands"
+  },
+  {
+    "id": "dailymotion",
+    "type": "brands"
+  },
+  {
+    "id": "dashcube",
+    "type": "brands"
+  },
+  {
+    "id": "database",
+    "type": "solid"
+  },
+  {
+    "id": "deaf",
+    "type": "solid"
+  },
+  {
+    "id": "deezer",
+    "type": "brands"
+  },
+  {
+    "id": "delicious",
+    "type": "brands"
+  },
+  {
+    "id": "democrat",
+    "type": "solid"
+  },
+  {
+    "id": "deploydog",
+    "type": "brands"
+  },
+  {
+    "id": "deskpro",
+    "type": "brands"
+  },
+  {
+    "id": "desktop",
+    "type": "solid"
+  },
+  {
+    "id": "dev",
+    "type": "brands"
+  },
+  {
+    "id": "deviantart",
+    "type": "brands"
+  },
+  {
+    "id": "dharmachakra",
+    "type": "solid"
+  },
+  {
+    "id": "dhl",
+    "type": "brands"
+  },
+  {
+    "id": "diagnoses",
+    "type": "solid"
+  },
+  {
+    "id": "diaspora",
+    "type": "brands"
+  },
+  {
+    "id": "dice",
+    "type": "solid"
+  },
+  {
+    "id": "dice-d20",
+    "type": "solid"
+  },
+  {
+    "id": "dice-d6",
+    "type": "solid"
+  },
+  {
+    "id": "dice-five",
+    "type": "solid"
+  },
+  {
+    "id": "dice-four",
+    "type": "solid"
+  },
+  {
+    "id": "dice-one",
+    "type": "solid"
+  },
+  {
+    "id": "dice-six",
+    "type": "solid"
+  },
+  {
+    "id": "dice-three",
+    "type": "solid"
+  },
+  {
+    "id": "dice-two",
+    "type": "solid"
+  },
+  {
+    "id": "digg",
+    "type": "brands"
+  },
+  {
+    "id": "digital-ocean",
+    "type": "brands"
+  },
+  {
+    "id": "digital-tachograph",
+    "type": "solid"
+  },
+  {
+    "id": "directions",
+    "type": "solid"
+  },
+  {
+    "id": "discord",
+    "type": "brands"
+  },
+  {
+    "id": "discourse",
+    "type": "brands"
+  },
+  {
+    "id": "disease",
+    "type": "solid"
+  },
+  {
+    "id": "divide",
+    "type": "solid"
+  },
+  {
+    "id": "dizzy",
+    "type": "regular"
+  },
+  {
+    "id": "dna",
+    "type": "solid"
+  },
+  {
+    "id": "dochub",
+    "type": "brands"
+  },
+  {
+    "id": "docker",
+    "type": "brands"
+  },
+  {
+    "id": "dog",
+    "type": "solid"
+  },
+  {
+    "id": "dollar-sign",
+    "type": "solid"
+  },
+  {
+    "id": "dolly",
+    "type": "solid"
+  },
+  {
+    "id": "dolly-flatbed",
+    "type": "solid"
+  },
+  {
+    "id": "donate",
+    "type": "solid"
+  },
+  {
+    "id": "door-closed",
+    "type": "solid"
+  },
+  {
+    "id": "door-open",
+    "type": "solid"
+  },
+  {
+    "id": "dot-circle",
+    "type": "regular"
+  },
+  {
+    "id": "dove",
+    "type": "solid"
+  },
+  {
+    "id": "download",
+    "type": "solid"
+  },
+  {
+    "id": "draft2digital",
+    "type": "brands"
+  },
+  {
+    "id": "drafting-compass",
+    "type": "solid"
+  },
+  {
+    "id": "dragon",
+    "type": "solid"
+  },
+  {
+    "id": "draw-polygon",
+    "type": "solid"
+  },
+  {
+    "id": "dribbble",
+    "type": "brands"
+  },
+  {
+    "id": "dribbble-square",
+    "type": "brands"
+  },
+  {
+    "id": "dropbox",
+    "type": "brands"
+  },
+  {
+    "id": "drum",
+    "type": "solid"
+  },
+  {
+    "id": "drum-steelpan",
+    "type": "solid"
+  },
+  {
+    "id": "drumstick-bite",
+    "type": "solid"
+  },
+  {
+    "id": "drupal",
+    "type": "brands"
+  },
+  {
+    "id": "dumbbell",
+    "type": "solid"
+  },
+  {
+    "id": "dumpster",
+    "type": "solid"
+  },
+  {
+    "id": "dumpster-fire",
+    "type": "solid"
+  },
+  {
+    "id": "dungeon",
+    "type": "solid"
+  },
+  {
+    "id": "dyalog",
+    "type": "brands"
+  },
+  {
+    "id": "earlybirds",
+    "type": "brands"
+  },
+  {
+    "id": "ebay",
+    "type": "brands"
+  },
+  {
+    "id": "edge",
+    "type": "brands"
+  },
+  {
+    "id": "edge-legacy",
+    "type": "brands"
+  },
+  {
+    "id": "edit",
+    "type": "regular"
+  },
+  {
+    "id": "egg",
+    "type": "solid"
+  },
+  {
+    "id": "eject",
+    "type": "solid"
+  },
+  {
+    "id": "elementor",
+    "type": "brands"
+  },
+  {
+    "id": "ellipsis-h",
+    "type": "solid"
+  },
+  {
+    "id": "ellipsis-v",
+    "type": "solid"
+  },
+  {
+    "id": "ello",
+    "type": "brands"
+  },
+  {
+    "id": "ember",
+    "type": "brands"
+  },
+  {
+    "id": "empire",
+    "type": "brands"
+  },
+  {
+    "id": "envelope",
+    "type": "regular"
+  },
+  {
+    "id": "envelope-open",
+    "type": "regular"
+  },
+  {
+    "id": "envelope-open-text",
+    "type": "solid"
+  },
+  {
+    "id": "envelope-square",
+    "type": "solid"
+  },
+  {
+    "id": "envira",
+    "type": "brands"
+  },
+  {
+    "id": "equals",
+    "type": "solid"
+  },
+  {
+    "id": "eraser",
+    "type": "solid"
+  },
+  {
+    "id": "erlang",
+    "type": "brands"
+  },
+  {
+    "id": "ethereum",
+    "type": "brands"
+  },
+  {
+    "id": "ethernet",
+    "type": "solid"
+  },
+  {
+    "id": "etsy",
+    "type": "brands"
+  },
+  {
+    "id": "euro-sign",
+    "type": "solid"
+  },
+  {
+    "id": "evernote",
+    "type": "brands"
+  },
+  {
+    "id": "exchange-alt",
+    "type": "solid"
+  },
+  {
+    "id": "exclamation",
+    "type": "solid"
+  },
+  {
+    "id": "exclamation-circle",
+    "type": "solid"
+  },
+  {
+    "id": "exclamation-triangle",
+    "type": "solid"
+  },
+  {
+    "id": "expand",
+    "type": "solid"
+  },
+  {
+    "id": "expand-alt",
+    "type": "solid"
+  },
+  {
+    "id": "expand-arrows-alt",
+    "type": "solid"
+  },
+  {
+    "id": "expeditedssl",
+    "type": "brands"
+  },
+  {
+    "id": "external-link-alt",
+    "type": "solid"
+  },
+  {
+    "id": "external-link-square-alt",
+    "type": "solid"
+  },
+  {
+    "id": "eye",
+    "type": "regular"
+  },
+  {
+    "id": "eye-dropper",
+    "type": "solid"
+  },
+  {
+    "id": "eye-slash",
+    "type": "regular"
+  },
+  {
+    "id": "facebook",
+    "type": "brands"
+  },
+  {
+    "id": "facebook-f",
+    "type": "brands"
+  },
+  {
+    "id": "facebook-messenger",
+    "type": "brands"
+  },
+  {
+    "id": "facebook-square",
+    "type": "brands"
+  },
+  {
+    "id": "fan",
+    "type": "solid"
+  },
+  {
+    "id": "fantasy-flight-games",
+    "type": "brands"
+  },
+  {
+    "id": "fast-backward",
+    "type": "solid"
+  },
+  {
+    "id": "fast-forward",
+    "type": "solid"
+  },
+  {
+    "id": "faucet",
+    "type": "solid"
+  },
+  {
+    "id": "fax",
+    "type": "solid"
+  },
+  {
+    "id": "feather",
+    "type": "solid"
+  },
+  {
+    "id": "feather-alt",
+    "type": "solid"
+  },
+  {
+    "id": "fedex",
+    "type": "brands"
+  },
+  {
+    "id": "fedora",
+    "type": "brands"
+  },
+  {
+    "id": "female",
+    "type": "solid"
+  },
+  {
+    "id": "fighter-jet",
+    "type": "solid"
+  },
+  {
+    "id": "figma",
+    "type": "brands"
+  },
+  {
+    "id": "file",
+    "type": "regular"
+  },
+  {
+    "id": "file-alt",
+    "type": "regular"
+  },
+  {
+    "id": "file-archive",
+    "type": "regular"
+  },
+  {
+    "id": "file-audio",
+    "type": "regular"
+  },
+  {
+    "id": "file-code",
+    "type": "regular"
+  },
+  {
+    "id": "file-contract",
+    "type": "solid"
+  },
+  {
+    "id": "file-csv",
+    "type": "solid"
+  },
+  {
+    "id": "file-download",
+    "type": "solid"
+  },
+  {
+    "id": "file-excel",
+    "type": "regular"
+  },
+  {
+    "id": "file-export",
+    "type": "solid"
+  },
+  {
+    "id": "file-image",
+    "type": "regular"
+  },
+  {
+    "id": "file-import",
+    "type": "solid"
+  },
+  {
+    "id": "file-invoice",
+    "type": "solid"
+  },
+  {
+    "id": "file-invoice-dollar",
+    "type": "solid"
+  },
+  {
+    "id": "file-medical",
+    "type": "solid"
+  },
+  {
+    "id": "file-medical-alt",
+    "type": "solid"
+  },
+  {
+    "id": "file-pdf",
+    "type": "regular"
+  },
+  {
+    "id": "file-powerpoint",
+    "type": "regular"
+  },
+  {
+    "id": "file-prescription",
+    "type": "solid"
+  },
+  {
+    "id": "file-signature",
+    "type": "solid"
+  },
+  {
+    "id": "file-upload",
+    "type": "solid"
+  },
+  {
+    "id": "file-video",
+    "type": "regular"
+  },
+  {
+    "id": "file-word",
+    "type": "regular"
+  },
+  {
+    "id": "fill",
+    "type": "solid"
+  },
+  {
+    "id": "fill-drip",
+    "type": "solid"
+  },
+  {
+    "id": "film",
+    "type": "solid"
+  },
+  {
+    "id": "filter",
+    "type": "solid"
+  },
+  {
+    "id": "fingerprint",
+    "type": "solid"
+  },
+  {
+    "id": "fire",
+    "type": "solid"
+  },
+  {
+    "id": "fire-alt",
+    "type": "solid"
+  },
+  {
+    "id": "fire-extinguisher",
+    "type": "solid"
+  },
+  {
+    "id": "firefox",
+    "type": "brands"
+  },
+  {
+    "id": "firefox-browser",
+    "type": "brands"
+  },
+  {
+    "id": "first-aid",
+    "type": "solid"
+  },
+  {
+    "id": "first-order",
+    "type": "brands"
+  },
+  {
+    "id": "first-order-alt",
+    "type": "brands"
+  },
+  {
+    "id": "firstdraft",
+    "type": "brands"
+  },
+  {
+    "id": "fish",
+    "type": "solid"
+  },
+  {
+    "id": "fist-raised",
+    "type": "solid"
+  },
+  {
+    "id": "flag",
+    "type": "regular"
+  },
+  {
+    "id": "flag-checkered",
+    "type": "solid"
+  },
+  {
+    "id": "flag-usa",
+    "type": "solid"
+  },
+  {
+    "id": "flask",
+    "type": "solid"
+  },
+  {
+    "id": "flickr",
+    "type": "brands"
+  },
+  {
+    "id": "flipboard",
+    "type": "brands"
+  },
+  {
+    "id": "flushed",
+    "type": "regular"
+  },
+  {
+    "id": "fly",
+    "type": "brands"
+  },
+  {
+    "id": "folder",
+    "type": "regular"
+  },
+  {
+    "id": "folder-minus",
+    "type": "solid"
+  },
+  {
+    "id": "folder-open",
+    "type": "regular"
+  },
+  {
+    "id": "folder-plus",
+    "type": "solid"
+  },
+  {
+    "id": "font",
+    "type": "solid"
+  },
+  {
+    "id": "font-awesome",
+    "type": "brands"
+  },
+  {
+    "id": "font-awesome-alt",
+    "type": "brands"
+  },
+  {
+    "id": "font-awesome-flag",
+    "type": "brands"
+  },
+  {
+    "id": "fonticons",
+    "type": "brands"
+  },
+  {
+    "id": "fonticons-fi",
+    "type": "brands"
+  },
+  {
+    "id": "football-ball",
+    "type": "solid"
+  },
+  {
+    "id": "fort-awesome",
+    "type": "brands"
+  },
+  {
+    "id": "fort-awesome-alt",
+    "type": "brands"
+  },
+  {
+    "id": "forumbee",
+    "type": "brands"
+  },
+  {
+    "id": "forward",
+    "type": "solid"
+  },
+  {
+    "id": "foursquare",
+    "type": "brands"
+  },
+  {
+    "id": "free-code-camp",
+    "type": "brands"
+  },
+  {
+    "id": "freebsd",
+    "type": "brands"
+  },
+  {
+    "id": "frog",
+    "type": "solid"
+  },
+  {
+    "id": "frown",
+    "type": "regular"
+  },
+  {
+    "id": "frown-open",
+    "type": "regular"
+  },
+  {
+    "id": "fulcrum",
+    "type": "brands"
+  },
+  {
+    "id": "funnel-dollar",
+    "type": "solid"
+  },
+  {
+    "id": "futbol",
+    "type": "regular"
+  },
+  {
+    "id": "galactic-republic",
+    "type": "brands"
+  },
+  {
+    "id": "galactic-senate",
+    "type": "brands"
+  },
+  {
+    "id": "gamepad",
+    "type": "solid"
+  },
+  {
+    "id": "gas-pump",
+    "type": "solid"
+  },
+  {
+    "id": "gavel",
+    "type": "solid"
+  },
+  {
+    "id": "gem",
+    "type": "regular"
+  },
+  {
+    "id": "genderless",
+    "type": "solid"
+  },
+  {
+    "id": "get-pocket",
+    "type": "brands"
+  },
+  {
+    "id": "gg",
+    "type": "brands"
+  },
+  {
+    "id": "gg-circle",
+    "type": "brands"
+  },
+  {
+    "id": "ghost",
+    "type": "solid"
+  },
+  {
+    "id": "gift",
+    "type": "solid"
+  },
+  {
+    "id": "gifts",
+    "type": "solid"
+  },
+  {
+    "id": "git",
+    "type": "brands"
+  },
+  {
+    "id": "git-alt",
+    "type": "brands"
+  },
+  {
+    "id": "git-square",
+    "type": "brands"
+  },
+  {
+    "id": "github",
+    "type": "brands"
+  },
+  {
+    "id": "github-alt",
+    "type": "brands"
+  },
+  {
+    "id": "github-square",
+    "type": "brands"
+  },
+  {
+    "id": "gitkraken",
+    "type": "brands"
+  },
+  {
+    "id": "gitlab",
+    "type": "brands"
+  },
+  {
+    "id": "gitter",
+    "type": "brands"
+  },
+  {
+    "id": "glass-cheers",
+    "type": "solid"
+  },
+  {
+    "id": "glass-martini",
+    "type": "solid"
+  },
+  {
+    "id": "glass-martini-alt",
+    "type": "solid"
+  },
+  {
+    "id": "glass-whiskey",
+    "type": "solid"
+  },
+  {
+    "id": "glasses",
+    "type": "solid"
+  },
+  {
+    "id": "glide",
+    "type": "brands"
+  },
+  {
+    "id": "glide-g",
+    "type": "brands"
+  },
+  {
+    "id": "globe",
+    "type": "solid"
+  },
+  {
+    "id": "globe-africa",
+    "type": "solid"
+  },
+  {
+    "id": "globe-americas",
+    "type": "solid"
+  },
+  {
+    "id": "globe-asia",
+    "type": "solid"
+  },
+  {
+    "id": "globe-europe",
+    "type": "solid"
+  },
+  {
+    "id": "gofore",
+    "type": "brands"
+  },
+  {
+    "id": "golf-ball",
+    "type": "solid"
+  },
+  {
+    "id": "goodreads",
+    "type": "brands"
+  },
+  {
+    "id": "goodreads-g",
+    "type": "brands"
+  },
+  {
+    "id": "google",
+    "type": "brands"
+  },
+  {
+    "id": "google-drive",
+    "type": "brands"
+  },
+  {
+    "id": "google-pay",
+    "type": "brands"
+  },
+  {
+    "id": "google-play",
+    "type": "brands"
+  },
+  {
+    "id": "google-plus",
+    "type": "brands"
+  },
+  {
+    "id": "google-plus-g",
+    "type": "brands"
+  },
+  {
+    "id": "google-plus-square",
+    "type": "brands"
+  },
+  {
+    "id": "google-wallet",
+    "type": "brands"
+  },
+  {
+    "id": "gopuram",
+    "type": "solid"
+  },
+  {
+    "id": "graduation-cap",
+    "type": "solid"
+  },
+  {
+    "id": "gratipay",
+    "type": "brands"
+  },
+  {
+    "id": "grav",
+    "type": "brands"
+  },
+  {
+    "id": "greater-than",
+    "type": "solid"
+  },
+  {
+    "id": "greater-than-equal",
+    "type": "solid"
+  },
+  {
+    "id": "grimace",
+    "type": "regular"
+  },
+  {
+    "id": "grin",
+    "type": "regular"
+  },
+  {
+    "id": "grin-alt",
+    "type": "regular"
+  },
+  {
+    "id": "grin-beam",
+    "type": "regular"
+  },
+  {
+    "id": "grin-beam-sweat",
+    "type": "regular"
+  },
+  {
+    "id": "grin-hearts",
+    "type": "regular"
+  },
+  {
+    "id": "grin-squint",
+    "type": "regular"
+  },
+  {
+    "id": "grin-squint-tears",
+    "type": "regular"
+  },
+  {
+    "id": "grin-stars",
+    "type": "regular"
+  },
+  {
+    "id": "grin-tears",
+    "type": "regular"
+  },
+  {
+    "id": "grin-tongue",
+    "type": "regular"
+  },
+  {
+    "id": "grin-tongue-squint",
+    "type": "regular"
+  },
+  {
+    "id": "grin-tongue-wink",
+    "type": "regular"
+  },
+  {
+    "id": "grin-wink",
+    "type": "regular"
+  },
+  {
+    "id": "grip-horizontal",
+    "type": "solid"
+  },
+  {
+    "id": "grip-lines",
+    "type": "solid"
+  },
+  {
+    "id": "grip-lines-vertical",
+    "type": "solid"
+  },
+  {
+    "id": "grip-vertical",
+    "type": "solid"
+  },
+  {
+    "id": "gripfire",
+    "type": "brands"
+  },
+  {
+    "id": "grunt",
+    "type": "brands"
+  },
+  {
+    "id": "guilded",
+    "type": "brands"
+  },
+  {
+    "id": "guitar",
+    "type": "solid"
+  },
+  {
+    "id": "gulp",
+    "type": "brands"
+  },
+  {
+    "id": "h-square",
+    "type": "solid"
+  },
+  {
+    "id": "hacker-news",
+    "type": "brands"
+  },
+  {
+    "id": "hacker-news-square",
+    "type": "brands"
+  },
+  {
+    "id": "hackerrank",
+    "type": "brands"
+  },
+  {
+    "id": "hamburger",
+    "type": "solid"
+  },
+  {
+    "id": "hammer",
+    "type": "solid"
+  },
+  {
+    "id": "hamsa",
+    "type": "solid"
+  },
+  {
+    "id": "hand-holding",
+    "type": "solid"
+  },
+  {
+    "id": "hand-holding-heart",
+    "type": "solid"
+  },
+  {
+    "id": "hand-holding-medical",
+    "type": "solid"
+  },
+  {
+    "id": "hand-holding-usd",
+    "type": "solid"
+  },
+  {
+    "id": "hand-holding-water",
+    "type": "solid"
+  },
+  {
+    "id": "hand-lizard",
+    "type": "regular"
+  },
+  {
+    "id": "hand-middle-finger",
+    "type": "solid"
+  },
+  {
+    "id": "hand-paper",
+    "type": "regular"
+  },
+  {
+    "id": "hand-peace",
+    "type": "regular"
+  },
+  {
+    "id": "hand-point-down",
+    "type": "regular"
+  },
+  {
+    "id": "hand-point-left",
+    "type": "regular"
+  },
+  {
+    "id": "hand-point-right",
+    "type": "regular"
+  },
+  {
+    "id": "hand-point-up",
+    "type": "regular"
+  },
+  {
+    "id": "hand-pointer",
+    "type": "regular"
+  },
+  {
+    "id": "hand-rock",
+    "type": "regular"
+  },
+  {
+    "id": "hand-scissors",
+    "type": "regular"
+  },
+  {
+    "id": "hand-sparkles",
+    "type": "solid"
+  },
+  {
+    "id": "hand-spock",
+    "type": "regular"
+  },
+  {
+    "id": "hands",
+    "type": "solid"
+  },
+  {
+    "id": "hands-helping",
+    "type": "solid"
+  },
+  {
+    "id": "hands-wash",
+    "type": "solid"
+  },
+  {
+    "id": "handshake",
+    "type": "regular"
+  },
+  {
+    "id": "handshake-alt-slash",
+    "type": "solid"
+  },
+  {
+    "id": "handshake-slash",
+    "type": "solid"
+  },
+  {
+    "id": "hanukiah",
+    "type": "solid"
+  },
+  {
+    "id": "hard-hat",
+    "type": "solid"
+  },
+  {
+    "id": "hashtag",
+    "type": "solid"
+  },
+  {
+    "id": "hat-cowboy",
+    "type": "solid"
+  },
+  {
+    "id": "hat-cowboy-side",
+    "type": "solid"
+  },
+  {
+    "id": "hat-wizard",
+    "type": "solid"
+  },
+  {
+    "id": "hdd",
+    "type": "regular"
+  },
+  {
+    "id": "head-side-cough",
+    "type": "solid"
+  },
+  {
+    "id": "head-side-cough-slash",
+    "type": "solid"
+  },
+  {
+    "id": "head-side-mask",
+    "type": "solid"
+  },
+  {
+    "id": "head-side-virus",
+    "type": "solid"
+  },
+  {
+    "id": "heading",
+    "type": "solid"
+  },
+  {
+    "id": "headphones",
+    "type": "solid"
+  },
+  {
+    "id": "headphones-alt",
+    "type": "solid"
+  },
+  {
+    "id": "headset",
+    "type": "solid"
+  },
+  {
+    "id": "heart",
+    "type": "regular"
+  },
+  {
+    "id": "heart-broken",
+    "type": "solid"
+  },
+  {
+    "id": "heartbeat",
+    "type": "solid"
+  },
+  {
+    "id": "helicopter",
+    "type": "solid"
+  },
+  {
+    "id": "highlighter",
+    "type": "solid"
+  },
+  {
+    "id": "hiking",
+    "type": "solid"
+  },
+  {
+    "id": "hippo",
+    "type": "solid"
+  },
+  {
+    "id": "hips",
+    "type": "brands"
+  },
+  {
+    "id": "hire-a-helper",
+    "type": "brands"
+  },
+  {
+    "id": "history",
+    "type": "solid"
+  },
+  {
+    "id": "hive",
+    "type": "brands"
+  },
+  {
+    "id": "hockey-puck",
+    "type": "solid"
+  },
+  {
+    "id": "holly-berry",
+    "type": "solid"
+  },
+  {
+    "id": "home",
+    "type": "solid"
+  },
+  {
+    "id": "hooli",
+    "type": "brands"
+  },
+  {
+    "id": "hornbill",
+    "type": "brands"
+  },
+  {
+    "id": "horse",
+    "type": "solid"
+  },
+  {
+    "id": "horse-head",
+    "type": "solid"
+  },
+  {
+    "id": "hospital",
+    "type": "regular"
+  },
+  {
+    "id": "hospital-alt",
+    "type": "solid"
+  },
+  {
+    "id": "hospital-symbol",
+    "type": "solid"
+  },
+  {
+    "id": "hospital-user",
+    "type": "solid"
+  },
+  {
+    "id": "hot-tub",
+    "type": "solid"
+  },
+  {
+    "id": "hotdog",
+    "type": "solid"
+  },
+  {
+    "id": "hotel",
+    "type": "solid"
+  },
+  {
+    "id": "hotjar",
+    "type": "brands"
+  },
+  {
+    "id": "hourglass",
+    "type": "regular"
+  },
+  {
+    "id": "hourglass-end",
+    "type": "solid"
+  },
+  {
+    "id": "hourglass-half",
+    "type": "solid"
+  },
+  {
+    "id": "hourglass-start",
+    "type": "solid"
+  },
+  {
+    "id": "house-damage",
+    "type": "solid"
+  },
+  {
+    "id": "house-user",
+    "type": "solid"
+  },
+  {
+    "id": "houzz",
+    "type": "brands"
+  },
+  {
+    "id": "hryvnia",
+    "type": "solid"
+  },
+  {
+    "id": "html5",
+    "type": "brands"
+  },
+  {
+    "id": "hubspot",
+    "type": "brands"
+  },
+  {
+    "id": "i-cursor",
+    "type": "solid"
+  },
+  {
+    "id": "ice-cream",
+    "type": "solid"
+  },
+  {
+    "id": "icicles",
+    "type": "solid"
+  },
+  {
+    "id": "icons",
+    "type": "solid"
+  },
+  {
+    "id": "id-badge",
+    "type": "regular"
+  },
+  {
+    "id": "id-card",
+    "type": "regular"
+  },
+  {
+    "id": "id-card-alt",
+    "type": "solid"
+  },
+  {
+    "id": "ideal",
+    "type": "brands"
+  },
+  {
+    "id": "igloo",
+    "type": "solid"
+  },
+  {
+    "id": "image",
+    "type": "regular"
+  },
+  {
+    "id": "images",
+    "type": "regular"
+  },
+  {
+    "id": "imdb",
+    "type": "brands"
+  },
+  {
+    "id": "inbox",
+    "type": "solid"
+  },
+  {
+    "id": "indent",
+    "type": "solid"
+  },
+  {
+    "id": "industry",
+    "type": "solid"
+  },
+  {
+    "id": "infinity",
+    "type": "solid"
+  },
+  {
+    "id": "info",
+    "type": "solid"
+  },
+  {
+    "id": "info-circle",
+    "type": "solid"
+  },
+  {
+    "id": "innosoft",
+    "type": "brands"
+  },
+  {
+    "id": "instagram",
+    "type": "brands"
+  },
+  {
+    "id": "instagram-square",
+    "type": "brands"
+  },
+  {
+    "id": "instalod",
+    "type": "brands"
+  },
+  {
+    "id": "intercom",
+    "type": "brands"
+  },
+  {
+    "id": "internet-explorer",
+    "type": "brands"
+  },
+  {
+    "id": "invision",
+    "type": "brands"
+  },
+  {
+    "id": "ioxhost",
+    "type": "brands"
+  },
+  {
+    "id": "italic",
+    "type": "solid"
+  },
+  {
+    "id": "itch-io",
+    "type": "brands"
+  },
+  {
+    "id": "itunes",
+    "type": "brands"
+  },
+  {
+    "id": "itunes-note",
+    "type": "brands"
+  },
+  {
+    "id": "java",
+    "type": "brands"
+  },
+  {
+    "id": "jedi",
+    "type": "solid"
+  },
+  {
+    "id": "jedi-order",
+    "type": "brands"
+  },
+  {
+    "id": "jenkins",
+    "type": "brands"
+  },
+  {
+    "id": "jira",
+    "type": "brands"
+  },
+  {
+    "id": "joget",
+    "type": "brands"
+  },
+  {
+    "id": "joint",
+    "type": "solid"
+  },
+  {
+    "id": "joomla",
+    "type": "brands"
+  },
+  {
+    "id": "journal-whills",
+    "type": "solid"
+  },
+  {
+    "id": "js",
+    "type": "brands"
+  },
+  {
+    "id": "js-square",
+    "type": "brands"
+  },
+  {
+    "id": "jsfiddle",
+    "type": "brands"
+  },
+  {
+    "id": "kaaba",
+    "type": "solid"
+  },
+  {
+    "id": "kaggle",
+    "type": "brands"
+  },
+  {
+    "id": "key",
+    "type": "solid"
+  },
+  {
+    "id": "keybase",
+    "type": "brands"
+  },
+  {
+    "id": "keyboard",
+    "type": "regular"
+  },
+  {
+    "id": "keycdn",
+    "type": "brands"
+  },
+  {
+    "id": "khanda",
+    "type": "solid"
+  },
+  {
+    "id": "kickstarter",
+    "type": "brands"
+  },
+  {
+    "id": "kickstarter-k",
+    "type": "brands"
+  },
+  {
+    "id": "kiss",
+    "type": "regular"
+  },
+  {
+    "id": "kiss-beam",
+    "type": "regular"
+  },
+  {
+    "id": "kiss-wink-heart",
+    "type": "regular"
+  },
+  {
+    "id": "kiwi-bird",
+    "type": "solid"
+  },
+  {
+    "id": "korvue",
+    "type": "brands"
+  },
+  {
+    "id": "landmark",
+    "type": "solid"
+  },
+  {
+    "id": "language",
+    "type": "solid"
+  },
+  {
+    "id": "laptop",
+    "type": "solid"
+  },
+  {
+    "id": "laptop-code",
+    "type": "solid"
+  },
+  {
+    "id": "laptop-house",
+    "type": "solid"
+  },
+  {
+    "id": "laptop-medical",
+    "type": "solid"
+  },
+  {
+    "id": "laravel",
+    "type": "brands"
+  },
+  {
+    "id": "lastfm",
+    "type": "brands"
+  },
+  {
+    "id": "lastfm-square",
+    "type": "brands"
+  },
+  {
+    "id": "laugh",
+    "type": "regular"
+  },
+  {
+    "id": "laugh-beam",
+    "type": "regular"
+  },
+  {
+    "id": "laugh-squint",
+    "type": "regular"
+  },
+  {
+    "id": "laugh-wink",
+    "type": "regular"
+  },
+  {
+    "id": "layer-group",
+    "type": "solid"
+  },
+  {
+    "id": "leaf",
+    "type": "solid"
+  },
+  {
+    "id": "leanpub",
+    "type": "brands"
+  },
+  {
+    "id": "lemon",
+    "type": "regular"
+  },
+  {
+    "id": "less",
+    "type": "brands"
+  },
+  {
+    "id": "less-than",
+    "type": "solid"
+  },
+  {
+    "id": "less-than-equal",
+    "type": "solid"
+  },
+  {
+    "id": "level-down-alt",
+    "type": "solid"
+  },
+  {
+    "id": "level-up-alt",
+    "type": "solid"
+  },
+  {
+    "id": "life-ring",
+    "type": "regular"
+  },
+  {
+    "id": "lightbulb",
+    "type": "regular"
+  },
+  {
+    "id": "line",
+    "type": "brands"
+  },
+  {
+    "id": "link",
+    "type": "solid"
+  },
+  {
+    "id": "linkedin",
+    "type": "brands"
+  },
+  {
+    "id": "linkedin-in",
+    "type": "brands"
+  },
+  {
+    "id": "linode",
+    "type": "brands"
+  },
+  {
+    "id": "linux",
+    "type": "brands"
+  },
+  {
+    "id": "lira-sign",
+    "type": "solid"
+  },
+  {
+    "id": "list",
+    "type": "solid"
+  },
+  {
+    "id": "list-alt",
+    "type": "regular"
+  },
+  {
+    "id": "list-ol",
+    "type": "solid"
+  },
+  {
+    "id": "list-ul",
+    "type": "solid"
+  },
+  {
+    "id": "location-arrow",
+    "type": "solid"
+  },
+  {
+    "id": "lock",
+    "type": "solid"
+  },
+  {
+    "id": "lock-open",
+    "type": "solid"
+  },
+  {
+    "id": "long-arrow-alt-down",
+    "type": "solid"
+  },
+  {
+    "id": "long-arrow-alt-left",
+    "type": "solid"
+  },
+  {
+    "id": "long-arrow-alt-right",
+    "type": "solid"
+  },
+  {
+    "id": "long-arrow-alt-up",
+    "type": "solid"
+  },
+  {
+    "id": "low-vision",
+    "type": "solid"
+  },
+  {
+    "id": "luggage-cart",
+    "type": "solid"
+  },
+  {
+    "id": "lungs",
+    "type": "solid"
+  },
+  {
+    "id": "lungs-virus",
+    "type": "solid"
+  },
+  {
+    "id": "lyft",
+    "type": "brands"
+  },
+  {
+    "id": "magento",
+    "type": "brands"
+  },
+  {
+    "id": "magic",
+    "type": "solid"
+  },
+  {
+    "id": "magnet",
+    "type": "solid"
+  },
+  {
+    "id": "mail-bulk",
+    "type": "solid"
+  },
+  {
+    "id": "mailchimp",
+    "type": "brands"
+  },
+  {
+    "id": "male",
+    "type": "solid"
+  },
+  {
+    "id": "mandalorian",
+    "type": "brands"
+  },
+  {
+    "id": "map",
+    "type": "regular"
+  },
+  {
+    "id": "map-marked",
+    "type": "solid"
+  },
+  {
+    "id": "map-marked-alt",
+    "type": "solid"
+  },
+  {
+    "id": "map-marker",
+    "type": "solid"
+  },
+  {
+    "id": "map-marker-alt",
+    "type": "solid"
+  },
+  {
+    "id": "map-pin",
+    "type": "solid"
+  },
+  {
+    "id": "map-signs",
+    "type": "solid"
+  },
+  {
+    "id": "markdown",
+    "type": "brands"
+  },
+  {
+    "id": "marker",
+    "type": "solid"
+  },
+  {
+    "id": "mars",
+    "type": "solid"
+  },
+  {
+    "id": "mars-double",
+    "type": "solid"
+  },
+  {
+    "id": "mars-stroke",
+    "type": "solid"
+  },
+  {
+    "id": "mars-stroke-h",
+    "type": "solid"
+  },
+  {
+    "id": "mars-stroke-v",
+    "type": "solid"
+  },
+  {
+    "id": "mask",
+    "type": "solid"
+  },
+  {
+    "id": "mastodon",
+    "type": "brands"
+  },
+  {
+    "id": "maxcdn",
+    "type": "brands"
+  },
+  {
+    "id": "mdb",
+    "type": "brands"
+  },
+  {
+    "id": "medal",
+    "type": "solid"
+  },
+  {
+    "id": "medapps",
+    "type": "brands"
+  },
+  {
+    "id": "medium",
+    "type": "brands"
+  },
+  {
+    "id": "medium-m",
+    "type": "brands"
+  },
+  {
+    "id": "medkit",
+    "type": "solid"
+  },
+  {
+    "id": "medrt",
+    "type": "brands"
+  },
+  {
+    "id": "meetup",
+    "type": "brands"
+  },
+  {
+    "id": "megaport",
+    "type": "brands"
+  },
+  {
+    "id": "meh",
+    "type": "regular"
+  },
+  {
+    "id": "meh-blank",
+    "type": "regular"
+  },
+  {
+    "id": "meh-rolling-eyes",
+    "type": "regular"
+  },
+  {
+    "id": "memory",
+    "type": "solid"
+  },
+  {
+    "id": "mendeley",
+    "type": "brands"
+  },
+  {
+    "id": "menorah",
+    "type": "solid"
+  },
+  {
+    "id": "mercury",
+    "type": "solid"
+  },
+  {
+    "id": "meteor",
+    "type": "solid"
+  },
+  {
+    "id": "microblog",
+    "type": "brands"
+  },
+  {
+    "id": "microchip",
+    "type": "solid"
+  },
+  {
+    "id": "microphone",
+    "type": "solid"
+  },
+  {
+    "id": "microphone-alt",
+    "type": "solid"
+  },
+  {
+    "id": "microphone-alt-slash",
+    "type": "solid"
+  },
+  {
+    "id": "microphone-slash",
+    "type": "solid"
+  },
+  {
+    "id": "microscope",
+    "type": "solid"
+  },
+  {
+    "id": "microsoft",
+    "type": "brands"
+  },
+  {
+    "id": "minus",
+    "type": "solid"
+  },
+  {
+    "id": "minus-circle",
+    "type": "solid"
+  },
+  {
+    "id": "minus-square",
+    "type": "regular"
+  },
+  {
+    "id": "mitten",
+    "type": "solid"
+  },
+  {
+    "id": "mix",
+    "type": "brands"
+  },
+  {
+    "id": "mixcloud",
+    "type": "brands"
+  },
+  {
+    "id": "mixer",
+    "type": "brands"
+  },
+  {
+    "id": "mizuni",
+    "type": "brands"
+  },
+  {
+    "id": "mobile",
+    "type": "solid"
+  },
+  {
+    "id": "mobile-alt",
+    "type": "solid"
+  },
+  {
+    "id": "modx",
+    "type": "brands"
+  },
+  {
+    "id": "monero",
+    "type": "brands"
+  },
+  {
+    "id": "money-bill",
+    "type": "solid"
+  },
+  {
+    "id": "money-bill-alt",
+    "type": "regular"
+  },
+  {
+    "id": "money-bill-wave",
+    "type": "solid"
+  },
+  {
+    "id": "money-bill-wave-alt",
+    "type": "solid"
+  },
+  {
+    "id": "money-check",
+    "type": "solid"
+  },
+  {
+    "id": "money-check-alt",
+    "type": "solid"
+  },
+  {
+    "id": "monument",
+    "type": "solid"
+  },
+  {
+    "id": "moon",
+    "type": "regular"
+  },
+  {
+    "id": "mortar-pestle",
+    "type": "solid"
+  },
+  {
+    "id": "mosque",
+    "type": "solid"
+  },
+  {
+    "id": "motorcycle",
+    "type": "solid"
+  },
+  {
+    "id": "mountain",
+    "type": "solid"
+  },
+  {
+    "id": "mouse",
+    "type": "solid"
+  },
+  {
+    "id": "mouse-pointer",
+    "type": "solid"
+  },
+  {
+    "id": "mug-hot",
+    "type": "solid"
+  },
+  {
+    "id": "music",
+    "type": "solid"
+  },
+  {
+    "id": "napster",
+    "type": "brands"
+  },
+  {
+    "id": "neos",
+    "type": "brands"
+  },
+  {
+    "id": "network-wired",
+    "type": "solid"
+  },
+  {
+    "id": "neuter",
+    "type": "solid"
+  },
+  {
+    "id": "newspaper",
+    "type": "regular"
+  },
+  {
+    "id": "nimblr",
+    "type": "brands"
+  },
+  {
+    "id": "node",
+    "type": "brands"
+  },
+  {
+    "id": "node-js",
+    "type": "brands"
+  },
+  {
+    "id": "not-equal",
+    "type": "solid"
+  },
+  {
+    "id": "notes-medical",
+    "type": "solid"
+  },
+  {
+    "id": "npm",
+    "type": "brands"
+  },
+  {
+    "id": "ns8",
+    "type": "brands"
+  },
+  {
+    "id": "nutritionix",
+    "type": "brands"
+  },
+  {
+    "id": "object-group",
+    "type": "regular"
+  },
+  {
+    "id": "object-ungroup",
+    "type": "regular"
+  },
+  {
+    "id": "octopus-deploy",
+    "type": "brands"
+  },
+  {
+    "id": "odnoklassniki",
+    "type": "brands"
+  },
+  {
+    "id": "odnoklassniki-square",
+    "type": "brands"
+  },
+  {
+    "id": "oil-can",
+    "type": "solid"
+  },
+  {
+    "id": "old-republic",
+    "type": "brands"
+  },
+  {
+    "id": "om",
+    "type": "solid"
+  },
+  {
+    "id": "opencart",
+    "type": "brands"
+  },
+  {
+    "id": "openid",
+    "type": "brands"
+  },
+  {
+    "id": "opera",
+    "type": "brands"
+  },
+  {
+    "id": "optin-monster",
+    "type": "brands"
+  },
+  {
+    "id": "orcid",
+    "type": "brands"
+  },
+  {
+    "id": "osi",
+    "type": "brands"
+  },
+  {
+    "id": "otter",
+    "type": "solid"
+  },
+  {
+    "id": "outdent",
+    "type": "solid"
+  },
+  {
+    "id": "page4",
+    "type": "brands"
+  },
+  {
+    "id": "pagelines",
+    "type": "brands"
+  },
+  {
+    "id": "pager",
+    "type": "solid"
+  },
+  {
+    "id": "paint-brush",
+    "type": "solid"
+  },
+  {
+    "id": "paint-roller",
+    "type": "solid"
+  },
+  {
+    "id": "palette",
+    "type": "solid"
+  },
+  {
+    "id": "palfed",
+    "type": "brands"
+  },
+  {
+    "id": "pallet",
+    "type": "solid"
+  },
+  {
+    "id": "paper-plane",
+    "type": "regular"
+  },
+  {
+    "id": "paperclip",
+    "type": "solid"
+  },
+  {
+    "id": "parachute-box",
+    "type": "solid"
+  },
+  {
+    "id": "paragraph",
+    "type": "solid"
+  },
+  {
+    "id": "parking",
+    "type": "solid"
+  },
+  {
+    "id": "passport",
+    "type": "solid"
+  },
+  {
+    "id": "pastafarianism",
+    "type": "solid"
+  },
+  {
+    "id": "paste",
+    "type": "solid"
+  },
+  {
+    "id": "patreon",
+    "type": "brands"
+  },
+  {
+    "id": "pause",
+    "type": "solid"
+  },
+  {
+    "id": "pause-circle",
+    "type": "regular"
+  },
+  {
+    "id": "paw",
+    "type": "solid"
+  },
+  {
+    "id": "paypal",
+    "type": "brands"
+  },
+  {
+    "id": "peace",
+    "type": "solid"
+  },
+  {
+    "id": "pen",
+    "type": "solid"
+  },
+  {
+    "id": "pen-alt",
+    "type": "solid"
+  },
+  {
+    "id": "pen-fancy",
+    "type": "solid"
+  },
+  {
+    "id": "pen-nib",
+    "type": "solid"
+  },
+  {
+    "id": "pen-square",
+    "type": "solid"
+  },
+  {
+    "id": "pencil-alt",
+    "type": "solid"
+  },
+  {
+    "id": "pencil-ruler",
+    "type": "solid"
+  },
+  {
+    "id": "penny-arcade",
+    "type": "brands"
+  },
+  {
+    "id": "people-arrows",
+    "type": "solid"
+  },
+  {
+    "id": "people-carry",
+    "type": "solid"
+  },
+  {
+    "id": "pepper-hot",
+    "type": "solid"
+  },
+  {
+    "id": "perbyte",
+    "type": "brands"
+  },
+  {
+    "id": "percent",
+    "type": "solid"
+  },
+  {
+    "id": "percentage",
+    "type": "solid"
+  },
+  {
+    "id": "periscope",
+    "type": "brands"
+  },
+  {
+    "id": "person-booth",
+    "type": "solid"
+  },
+  {
+    "id": "phabricator",
+    "type": "brands"
+  },
+  {
+    "id": "phoenix-framework",
+    "type": "brands"
+  },
+  {
+    "id": "phoenix-squadron",
+    "type": "brands"
+  },
+  {
+    "id": "phone",
+    "type": "solid"
+  },
+  {
+    "id": "phone-alt",
+    "type": "solid"
+  },
+  {
+    "id": "phone-slash",
+    "type": "solid"
+  },
+  {
+    "id": "phone-square",
+    "type": "solid"
+  },
+  {
+    "id": "phone-square-alt",
+    "type": "solid"
+  },
+  {
+    "id": "phone-volume",
+    "type": "solid"
+  },
+  {
+    "id": "photo-video",
+    "type": "solid"
+  },
+  {
+    "id": "php",
+    "type": "brands"
+  },
+  {
+    "id": "pied-piper",
+    "type": "brands"
+  },
+  {
+    "id": "pied-piper-alt",
+    "type": "brands"
+  },
+  {
+    "id": "pied-piper-hat",
+    "type": "brands"
+  },
+  {
+    "id": "pied-piper-pp",
+    "type": "brands"
+  },
+  {
+    "id": "pied-piper-square",
+    "type": "brands"
+  },
+  {
+    "id": "piggy-bank",
+    "type": "solid"
+  },
+  {
+    "id": "pills",
+    "type": "solid"
+  },
+  {
+    "id": "pinterest",
+    "type": "brands"
+  },
+  {
+    "id": "pinterest-p",
+    "type": "brands"
+  },
+  {
+    "id": "pinterest-square",
+    "type": "brands"
+  },
+  {
+    "id": "pizza-slice",
+    "type": "solid"
+  },
+  {
+    "id": "place-of-worship",
+    "type": "solid"
+  },
+  {
+    "id": "plane",
+    "type": "solid"
+  },
+  {
+    "id": "plane-arrival",
+    "type": "solid"
+  },
+  {
+    "id": "plane-departure",
+    "type": "solid"
+  },
+  {
+    "id": "plane-slash",
+    "type": "solid"
+  },
+  {
+    "id": "play",
+    "type": "solid"
+  },
+  {
+    "id": "play-circle",
+    "type": "regular"
+  },
+  {
+    "id": "playstation",
+    "type": "brands"
+  },
+  {
+    "id": "plug",
+    "type": "solid"
+  },
+  {
+    "id": "plus",
+    "type": "solid"
+  },
+  {
+    "id": "plus-circle",
+    "type": "solid"
+  },
+  {
+    "id": "plus-square",
+    "type": "regular"
+  },
+  {
+    "id": "podcast",
+    "type": "solid"
+  },
+  {
+    "id": "poll",
+    "type": "solid"
+  },
+  {
+    "id": "poll-h",
+    "type": "solid"
+  },
+  {
+    "id": "poo",
+    "type": "solid"
+  },
+  {
+    "id": "poo-storm",
+    "type": "solid"
+  },
+  {
+    "id": "poop",
+    "type": "solid"
+  },
+  {
+    "id": "portrait",
+    "type": "solid"
+  },
+  {
+    "id": "pound-sign",
+    "type": "solid"
+  },
+  {
+    "id": "power-off",
+    "type": "solid"
+  },
+  {
+    "id": "pray",
+    "type": "solid"
+  },
+  {
+    "id": "praying-hands",
+    "type": "solid"
+  },
+  {
+    "id": "prescription",
+    "type": "solid"
+  },
+  {
+    "id": "prescription-bottle",
+    "type": "solid"
+  },
+  {
+    "id": "prescription-bottle-alt",
+    "type": "solid"
+  },
+  {
+    "id": "print",
+    "type": "solid"
+  },
+  {
+    "id": "procedures",
+    "type": "solid"
+  },
+  {
+    "id": "product-hunt",
+    "type": "brands"
+  },
+  {
+    "id": "project-diagram",
+    "type": "solid"
+  },
+  {
+    "id": "pump-medical",
+    "type": "solid"
+  },
+  {
+    "id": "pump-soap",
+    "type": "solid"
+  },
+  {
+    "id": "pushed",
+    "type": "brands"
+  },
+  {
+    "id": "puzzle-piece",
+    "type": "solid"
+  },
+  {
+    "id": "python",
+    "type": "brands"
+  },
+  {
+    "id": "qq",
+    "type": "brands"
+  },
+  {
+    "id": "qrcode",
+    "type": "solid"
+  },
+  {
+    "id": "question",
+    "type": "solid"
+  },
+  {
+    "id": "question-circle",
+    "type": "regular"
+  },
+  {
+    "id": "quidditch",
+    "type": "solid"
+  },
+  {
+    "id": "quinscape",
+    "type": "brands"
+  },
+  {
+    "id": "quora",
+    "type": "brands"
+  },
+  {
+    "id": "quote-left",
+    "type": "solid"
+  },
+  {
+    "id": "quote-right",
+    "type": "solid"
+  },
+  {
+    "id": "quran",
+    "type": "solid"
+  },
+  {
+    "id": "r-project",
+    "type": "brands"
+  },
+  {
+    "id": "radiation",
+    "type": "solid"
+  },
+  {
+    "id": "radiation-alt",
+    "type": "solid"
+  },
+  {
+    "id": "rainbow",
+    "type": "solid"
+  },
+  {
+    "id": "random",
+    "type": "solid"
+  },
+  {
+    "id": "raspberry-pi",
+    "type": "brands"
+  },
+  {
+    "id": "ravelry",
+    "type": "brands"
+  },
+  {
+    "id": "react",
+    "type": "brands"
+  },
+  {
+    "id": "reacteurope",
+    "type": "brands"
+  },
+  {
+    "id": "readme",
+    "type": "brands"
+  },
+  {
+    "id": "rebel",
+    "type": "brands"
+  },
+  {
+    "id": "receipt",
+    "type": "solid"
+  },
+  {
+    "id": "record-vinyl",
+    "type": "solid"
+  },
+  {
+    "id": "recycle",
+    "type": "solid"
+  },
+  {
+    "id": "red-river",
+    "type": "brands"
+  },
+  {
+    "id": "reddit",
+    "type": "brands"
+  },
+  {
+    "id": "reddit-alien",
+    "type": "brands"
+  },
+  {
+    "id": "reddit-square",
+    "type": "brands"
+  },
+  {
+    "id": "redhat",
+    "type": "brands"
+  },
+  {
+    "id": "redo",
+    "type": "solid"
+  },
+  {
+    "id": "redo-alt",
+    "type": "solid"
+  },
+  {
+    "id": "registered",
+    "type": "regular"
+  },
+  {
+    "id": "remove-format",
+    "type": "solid"
+  },
+  {
+    "id": "renren",
+    "type": "brands"
+  },
+  {
+    "id": "reply",
+    "type": "solid"
+  },
+  {
+    "id": "reply-all",
+    "type": "solid"
+  },
+  {
+    "id": "replyd",
+    "type": "brands"
+  },
+  {
+    "id": "republican",
+    "type": "solid"
+  },
+  {
+    "id": "researchgate",
+    "type": "brands"
+  },
+  {
+    "id": "resolving",
+    "type": "brands"
+  },
+  {
+    "id": "restroom",
+    "type": "solid"
+  },
+  {
+    "id": "retweet",
+    "type": "solid"
+  },
+  {
+    "id": "rev",
+    "type": "brands"
+  },
+  {
+    "id": "ribbon",
+    "type": "solid"
+  },
+  {
+    "id": "ring",
+    "type": "solid"
+  },
+  {
+    "id": "road",
+    "type": "solid"
+  },
+  {
+    "id": "robot",
+    "type": "solid"
+  },
+  {
+    "id": "rocket",
+    "type": "solid"
+  },
+  {
+    "id": "rocketchat",
+    "type": "brands"
+  },
+  {
+    "id": "rockrms",
+    "type": "brands"
+  },
+  {
+    "id": "route",
+    "type": "solid"
+  },
+  {
+    "id": "rss",
+    "type": "solid"
+  },
+  {
+    "id": "rss-square",
+    "type": "solid"
+  },
+  {
+    "id": "ruble-sign",
+    "type": "solid"
+  },
+  {
+    "id": "ruler",
+    "type": "solid"
+  },
+  {
+    "id": "ruler-combined",
+    "type": "solid"
+  },
+  {
+    "id": "ruler-horizontal",
+    "type": "solid"
+  },
+  {
+    "id": "ruler-vertical",
+    "type": "solid"
+  },
+  {
+    "id": "running",
+    "type": "solid"
+  },
+  {
+    "id": "rupee-sign",
+    "type": "solid"
+  },
+  {
+    "id": "rust",
+    "type": "brands"
+  },
+  {
+    "id": "sad-cry",
+    "type": "regular"
+  },
+  {
+    "id": "sad-tear",
+    "type": "regular"
+  },
+  {
+    "id": "safari",
+    "type": "brands"
+  },
+  {
+    "id": "salesforce",
+    "type": "brands"
+  },
+  {
+    "id": "sass",
+    "type": "brands"
+  },
+  {
+    "id": "satellite",
+    "type": "solid"
+  },
+  {
+    "id": "satellite-dish",
+    "type": "solid"
+  },
+  {
+    "id": "save",
+    "type": "regular"
+  },
+  {
+    "id": "schlix",
+    "type": "brands"
+  },
+  {
+    "id": "school",
+    "type": "solid"
+  },
+  {
+    "id": "screwdriver",
+    "type": "solid"
+  },
+  {
+    "id": "scribd",
+    "type": "brands"
+  },
+  {
+    "id": "scroll",
+    "type": "solid"
+  },
+  {
+    "id": "sd-card",
+    "type": "solid"
+  },
+  {
+    "id": "search",
+    "type": "solid"
+  },
+  {
+    "id": "search-dollar",
+    "type": "solid"
+  },
+  {
+    "id": "search-location",
+    "type": "solid"
+  },
+  {
+    "id": "search-minus",
+    "type": "solid"
+  },
+  {
+    "id": "search-plus",
+    "type": "solid"
+  },
+  {
+    "id": "searchengin",
+    "type": "brands"
+  },
+  {
+    "id": "seedling",
+    "type": "solid"
+  },
+  {
+    "id": "sellcast",
+    "type": "brands"
+  },
+  {
+    "id": "sellsy",
+    "type": "brands"
+  },
+  {
+    "id": "server",
+    "type": "solid"
+  },
+  {
+    "id": "servicestack",
+    "type": "brands"
+  },
+  {
+    "id": "shapes",
+    "type": "solid"
+  },
+  {
+    "id": "share",
+    "type": "solid"
+  },
+  {
+    "id": "share-alt",
+    "type": "solid"
+  },
+  {
+    "id": "share-alt-square",
+    "type": "solid"
+  },
+  {
+    "id": "share-square",
+    "type": "regular"
+  },
+  {
+    "id": "shekel-sign",
+    "type": "solid"
+  },
+  {
+    "id": "shield-alt",
+    "type": "solid"
+  },
+  {
+    "id": "shield-virus",
+    "type": "solid"
+  },
+  {
+    "id": "ship",
+    "type": "solid"
+  },
+  {
+    "id": "shipping-fast",
+    "type": "solid"
+  },
+  {
+    "id": "shirtsinbulk",
+    "type": "brands"
+  },
+  {
+    "id": "shoe-prints",
+    "type": "solid"
+  },
+  {
+    "id": "shopify",
+    "type": "brands"
+  },
+  {
+    "id": "shopping-bag",
+    "type": "solid"
+  },
+  {
+    "id": "shopping-basket",
+    "type": "solid"
+  },
+  {
+    "id": "shopping-cart",
+    "type": "solid"
+  },
+  {
+    "id": "shopware",
+    "type": "brands"
+  },
+  {
+    "id": "shower",
+    "type": "solid"
+  },
+  {
+    "id": "shuttle-van",
+    "type": "solid"
+  },
+  {
+    "id": "sign",
+    "type": "solid"
+  },
+  {
+    "id": "sign-in-alt",
+    "type": "solid"
+  },
+  {
+    "id": "sign-language",
+    "type": "solid"
+  },
+  {
+    "id": "sign-out-alt",
+    "type": "solid"
+  },
+  {
+    "id": "signal",
+    "type": "solid"
+  },
+  {
+    "id": "signature",
+    "type": "solid"
+  },
+  {
+    "id": "sim-card",
+    "type": "solid"
+  },
+  {
+    "id": "simplybuilt",
+    "type": "brands"
+  },
+  {
+    "id": "sink",
+    "type": "solid"
+  },
+  {
+    "id": "sistrix",
+    "type": "brands"
+  },
+  {
+    "id": "sitemap",
+    "type": "solid"
+  },
+  {
+    "id": "sith",
+    "type": "brands"
+  },
+  {
+    "id": "skating",
+    "type": "solid"
+  },
+  {
+    "id": "sketch",
+    "type": "brands"
+  },
+  {
+    "id": "skiing",
+    "type": "solid"
+  },
+  {
+    "id": "skiing-nordic",
+    "type": "solid"
+  },
+  {
+    "id": "skull",
+    "type": "solid"
+  },
+  {
+    "id": "skull-crossbones",
+    "type": "solid"
+  },
+  {
+    "id": "skyatlas",
+    "type": "brands"
+  },
+  {
+    "id": "skype",
+    "type": "brands"
+  },
+  {
+    "id": "slack",
+    "type": "brands"
+  },
+  {
+    "id": "slack-hash",
+    "type": "brands"
+  },
+  {
+    "id": "slash",
+    "type": "solid"
+  },
+  {
+    "id": "sleigh",
+    "type": "solid"
+  },
+  {
+    "id": "sliders-h",
+    "type": "solid"
+  },
+  {
+    "id": "slideshare",
+    "type": "brands"
+  },
+  {
+    "id": "smile",
+    "type": "regular"
+  },
+  {
+    "id": "smile-beam",
+    "type": "regular"
+  },
+  {
+    "id": "smile-wink",
+    "type": "regular"
+  },
+  {
+    "id": "smog",
+    "type": "solid"
+  },
+  {
+    "id": "smoking",
+    "type": "solid"
+  },
+  {
+    "id": "smoking-ban",
+    "type": "solid"
+  },
+  {
+    "id": "sms",
+    "type": "solid"
+  },
+  {
+    "id": "snapchat",
+    "type": "brands"
+  },
+  {
+    "id": "snapchat-ghost",
+    "type": "brands"
+  },
+  {
+    "id": "snapchat-square",
+    "type": "brands"
+  },
+  {
+    "id": "snowboarding",
+    "type": "solid"
+  },
+  {
+    "id": "snowflake",
+    "type": "regular"
+  },
+  {
+    "id": "snowman",
+    "type": "solid"
+  },
+  {
+    "id": "snowplow",
+    "type": "solid"
+  },
+  {
+    "id": "soap",
+    "type": "solid"
+  },
+  {
+    "id": "socks",
+    "type": "solid"
+  },
+  {
+    "id": "solar-panel",
+    "type": "solid"
+  },
+  {
+    "id": "sort",
+    "type": "solid"
+  },
+  {
+    "id": "sort-alpha-down",
+    "type": "solid"
+  },
+  {
+    "id": "sort-alpha-down-alt",
+    "type": "solid"
+  },
+  {
+    "id": "sort-alpha-up",
+    "type": "solid"
+  },
+  {
+    "id": "sort-alpha-up-alt",
+    "type": "solid"
+  },
+  {
+    "id": "sort-amount-down",
+    "type": "solid"
+  },
+  {
+    "id": "sort-amount-down-alt",
+    "type": "solid"
+  },
+  {
+    "id": "sort-amount-up",
+    "type": "solid"
+  },
+  {
+    "id": "sort-amount-up-alt",
+    "type": "solid"
+  },
+  {
+    "id": "sort-down",
+    "type": "solid"
+  },
+  {
+    "id": "sort-numeric-down",
+    "type": "solid"
+  },
+  {
+    "id": "sort-numeric-down-alt",
+    "type": "solid"
+  },
+  {
+    "id": "sort-numeric-up",
+    "type": "solid"
+  },
+  {
+    "id": "sort-numeric-up-alt",
+    "type": "solid"
+  },
+  {
+    "id": "sort-up",
+    "type": "solid"
+  },
+  {
+    "id": "soundcloud",
+    "type": "brands"
+  },
+  {
+    "id": "sourcetree",
+    "type": "brands"
+  },
+  {
+    "id": "spa",
+    "type": "solid"
+  },
+  {
+    "id": "space-shuttle",
+    "type": "solid"
+  },
+  {
+    "id": "speakap",
+    "type": "brands"
+  },
+  {
+    "id": "speaker-deck",
+    "type": "brands"
+  },
+  {
+    "id": "spell-check",
+    "type": "solid"
+  },
+  {
+    "id": "spider",
+    "type": "solid"
+  },
+  {
+    "id": "spinner",
+    "type": "solid"
+  },
+  {
+    "id": "splotch",
+    "type": "solid"
+  },
+  {
+    "id": "spotify",
+    "type": "brands"
+  },
+  {
+    "id": "spray-can",
+    "type": "solid"
+  },
+  {
+    "id": "square",
+    "type": "regular"
+  },
+  {
+    "id": "square-full",
+    "type": "solid"
+  },
+  {
+    "id": "square-root-alt",
+    "type": "solid"
+  },
+  {
+    "id": "squarespace",
+    "type": "brands"
+  },
+  {
+    "id": "stack-exchange",
+    "type": "brands"
+  },
+  {
+    "id": "stack-overflow",
+    "type": "brands"
+  },
+  {
+    "id": "stackpath",
+    "type": "brands"
+  },
+  {
+    "id": "stamp",
+    "type": "solid"
+  },
+  {
+    "id": "star",
+    "type": "regular"
+  },
+  {
+    "id": "star-and-crescent",
+    "type": "solid"
+  },
+  {
+    "id": "star-half",
+    "type": "regular"
+  },
+  {
+    "id": "star-half-alt",
+    "type": "solid"
+  },
+  {
+    "id": "star-of-david",
+    "type": "solid"
+  },
+  {
+    "id": "star-of-life",
+    "type": "solid"
+  },
+  {
+    "id": "staylinked",
+    "type": "brands"
+  },
+  {
+    "id": "steam",
+    "type": "brands"
+  },
+  {
+    "id": "steam-square",
+    "type": "brands"
+  },
+  {
+    "id": "steam-symbol",
+    "type": "brands"
+  },
+  {
+    "id": "step-backward",
+    "type": "solid"
+  },
+  {
+    "id": "step-forward",
+    "type": "solid"
+  },
+  {
+    "id": "stethoscope",
+    "type": "solid"
+  },
+  {
+    "id": "sticker-mule",
+    "type": "brands"
+  },
+  {
+    "id": "sticky-note",
+    "type": "regular"
+  },
+  {
+    "id": "stop",
+    "type": "solid"
+  },
+  {
+    "id": "stop-circle",
+    "type": "regular"
+  },
+  {
+    "id": "stopwatch",
+    "type": "solid"
+  },
+  {
+    "id": "stopwatch-20",
+    "type": "solid"
+  },
+  {
+    "id": "store",
+    "type": "solid"
+  },
+  {
+    "id": "store-alt",
+    "type": "solid"
+  },
+  {
+    "id": "store-alt-slash",
+    "type": "solid"
+  },
+  {
+    "id": "store-slash",
+    "type": "solid"
+  },
+  {
+    "id": "strava",
+    "type": "brands"
+  },
+  {
+    "id": "stream",
+    "type": "solid"
+  },
+  {
+    "id": "street-view",
+    "type": "solid"
+  },
+  {
+    "id": "strikethrough",
+    "type": "solid"
+  },
+  {
+    "id": "stripe",
+    "type": "brands"
+  },
+  {
+    "id": "stripe-s",
+    "type": "brands"
+  },
+  {
+    "id": "stroopwafel",
+    "type": "solid"
+  },
+  {
+    "id": "studiovinari",
+    "type": "brands"
+  },
+  {
+    "id": "stumbleupon",
+    "type": "brands"
+  },
+  {
+    "id": "stumbleupon-circle",
+    "type": "brands"
+  },
+  {
+    "id": "subscript",
+    "type": "solid"
+  },
+  {
+    "id": "subway",
+    "type": "solid"
+  },
+  {
+    "id": "suitcase",
+    "type": "solid"
+  },
+  {
+    "id": "suitcase-rolling",
+    "type": "solid"
+  },
+  {
+    "id": "sun",
+    "type": "regular"
+  },
+  {
+    "id": "superpowers",
+    "type": "brands"
+  },
+  {
+    "id": "superscript",
+    "type": "solid"
+  },
+  {
+    "id": "supple",
+    "type": "brands"
+  },
+  {
+    "id": "surprise",
+    "type": "regular"
+  },
+  {
+    "id": "suse",
+    "type": "brands"
+  },
+  {
+    "id": "swatchbook",
+    "type": "solid"
+  },
+  {
+    "id": "swift",
+    "type": "brands"
+  },
+  {
+    "id": "swimmer",
+    "type": "solid"
+  },
+  {
+    "id": "swimming-pool",
+    "type": "solid"
+  },
+  {
+    "id": "symfony",
+    "type": "brands"
+  },
+  {
+    "id": "synagogue",
+    "type": "solid"
+  },
+  {
+    "id": "sync",
+    "type": "solid"
+  },
+  {
+    "id": "sync-alt",
+    "type": "solid"
+  },
+  {
+    "id": "syringe",
+    "type": "solid"
+  },
+  {
+    "id": "table",
+    "type": "solid"
+  },
+  {
+    "id": "table-tennis",
+    "type": "solid"
+  },
+  {
+    "id": "tablet",
+    "type": "solid"
+  },
+  {
+    "id": "tablet-alt",
+    "type": "solid"
+  },
+  {
+    "id": "tablets",
+    "type": "solid"
+  },
+  {
+    "id": "tachometer-alt",
+    "type": "solid"
+  },
+  {
+    "id": "tag",
+    "type": "solid"
+  },
+  {
+    "id": "tags",
+    "type": "solid"
+  },
+  {
+    "id": "tape",
+    "type": "solid"
+  },
+  {
+    "id": "tasks",
+    "type": "solid"
+  },
+  {
+    "id": "taxi",
+    "type": "solid"
+  },
+  {
+    "id": "teamspeak",
+    "type": "brands"
+  },
+  {
+    "id": "teeth",
+    "type": "solid"
+  },
+  {
+    "id": "teeth-open",
+    "type": "solid"
+  },
+  {
+    "id": "telegram",
+    "type": "brands"
+  },
+  {
+    "id": "telegram-plane",
+    "type": "brands"
+  },
+  {
+    "id": "temperature-high",
+    "type": "solid"
+  },
+  {
+    "id": "temperature-low",
+    "type": "solid"
+  },
+  {
+    "id": "tencent-weibo",
+    "type": "brands"
+  },
+  {
+    "id": "tenge",
+    "type": "solid"
+  },
+  {
+    "id": "terminal",
+    "type": "solid"
+  },
+  {
+    "id": "text-height",
+    "type": "solid"
+  },
+  {
+    "id": "text-width",
+    "type": "solid"
+  },
+  {
+    "id": "th",
+    "type": "solid"
+  },
+  {
+    "id": "th-large",
+    "type": "solid"
+  },
+  {
+    "id": "th-list",
+    "type": "solid"
+  },
+  {
+    "id": "the-red-yeti",
+    "type": "brands"
+  },
+  {
+    "id": "theater-masks",
+    "type": "solid"
+  },
+  {
+    "id": "themeco",
+    "type": "brands"
+  },
+  {
+    "id": "themeisle",
+    "type": "brands"
+  },
+  {
+    "id": "thermometer",
+    "type": "solid"
+  },
+  {
+    "id": "thermometer-empty",
+    "type": "solid"
+  },
+  {
+    "id": "thermometer-full",
+    "type": "solid"
+  },
+  {
+    "id": "thermometer-half",
+    "type": "solid"
+  },
+  {
+    "id": "thermometer-quarter",
+    "type": "solid"
+  },
+  {
+    "id": "thermometer-three-quarters",
+    "type": "solid"
+  },
+  {
+    "id": "think-peaks",
+    "type": "brands"
+  },
+  {
+    "id": "thumbs-down",
+    "type": "regular"
+  },
+  {
+    "id": "thumbs-up",
+    "type": "regular"
+  },
+  {
+    "id": "thumbtack",
+    "type": "solid"
+  },
+  {
+    "id": "ticket-alt",
+    "type": "solid"
+  },
+  {
+    "id": "tiktok",
+    "type": "brands"
+  },
+  {
+    "id": "times",
+    "type": "solid"
+  },
+  {
+    "id": "times-circle",
+    "type": "regular"
+  },
+  {
+    "id": "tint",
+    "type": "solid"
+  },
+  {
+    "id": "tint-slash",
+    "type": "solid"
+  },
+  {
+    "id": "tired",
+    "type": "regular"
+  },
+  {
+    "id": "toggle-off",
+    "type": "solid"
+  },
+  {
+    "id": "toggle-on",
+    "type": "solid"
+  },
+  {
+    "id": "toilet",
+    "type": "solid"
+  },
+  {
+    "id": "toilet-paper",
+    "type": "solid"
+  },
+  {
+    "id": "toilet-paper-slash",
+    "type": "solid"
+  },
+  {
+    "id": "toolbox",
+    "type": "solid"
+  },
+  {
+    "id": "tools",
+    "type": "solid"
+  },
+  {
+    "id": "tooth",
+    "type": "solid"
+  },
+  {
+    "id": "torah",
+    "type": "solid"
+  },
+  {
+    "id": "torii-gate",
+    "type": "solid"
+  },
+  {
+    "id": "tractor",
+    "type": "solid"
+  },
+  {
+    "id": "trade-federation",
+    "type": "brands"
+  },
+  {
+    "id": "trademark",
+    "type": "solid"
+  },
+  {
+    "id": "traffic-light",
+    "type": "solid"
+  },
+  {
+    "id": "trailer",
+    "type": "solid"
+  },
+  {
+    "id": "train",
+    "type": "solid"
+  },
+  {
+    "id": "tram",
+    "type": "solid"
+  },
+  {
+    "id": "transgender",
+    "type": "solid"
+  },
+  {
+    "id": "transgender-alt",
+    "type": "solid"
+  },
+  {
+    "id": "trash",
+    "type": "solid"
+  },
+  {
+    "id": "trash-alt",
+    "type": "regular"
+  },
+  {
+    "id": "trash-restore",
+    "type": "solid"
+  },
+  {
+    "id": "trash-restore-alt",
+    "type": "solid"
+  },
+  {
+    "id": "tree",
+    "type": "solid"
+  },
+  {
+    "id": "trello",
+    "type": "brands"
+  },
+  {
+    "id": "tripadvisor",
+    "type": "brands"
+  },
+  {
+    "id": "trophy",
+    "type": "solid"
+  },
+  {
+    "id": "truck",
+    "type": "solid"
+  },
+  {
+    "id": "truck-loading",
+    "type": "solid"
+  },
+  {
+    "id": "truck-monster",
+    "type": "solid"
+  },
+  {
+    "id": "truck-moving",
+    "type": "solid"
+  },
+  {
+    "id": "truck-pickup",
+    "type": "solid"
+  },
+  {
+    "id": "tshirt",
+    "type": "solid"
+  },
+  {
+    "id": "tty",
+    "type": "solid"
+  },
+  {
+    "id": "tumblr",
+    "type": "brands"
+  },
+  {
+    "id": "tumblr-square",
+    "type": "brands"
+  },
+  {
+    "id": "tv",
+    "type": "solid"
+  },
+  {
+    "id": "twitch",
+    "type": "brands"
+  },
+  {
+    "id": "twitter",
+    "type": "brands"
+  },
+  {
+    "id": "twitter-square",
+    "type": "brands"
+  },
+  {
+    "id": "typo3",
+    "type": "brands"
+  },
+  {
+    "id": "uber",
+    "type": "brands"
+  },
+  {
+    "id": "ubuntu",
+    "type": "brands"
+  },
+  {
+    "id": "uikit",
+    "type": "brands"
+  },
+  {
+    "id": "umbraco",
+    "type": "brands"
+  },
+  {
+    "id": "umbrella",
+    "type": "solid"
+  },
+  {
+    "id": "umbrella-beach",
+    "type": "solid"
+  },
+  {
+    "id": "uncharted",
+    "type": "brands"
+  },
+  {
+    "id": "underline",
+    "type": "solid"
+  },
+  {
+    "id": "undo",
+    "type": "solid"
+  },
+  {
+    "id": "undo-alt",
+    "type": "solid"
+  },
+  {
+    "id": "uniregistry",
+    "type": "brands"
+  },
+  {
+    "id": "unity",
+    "type": "brands"
+  },
+  {
+    "id": "universal-access",
+    "type": "solid"
+  },
+  {
+    "id": "university",
+    "type": "solid"
+  },
+  {
+    "id": "unlink",
+    "type": "solid"
+  },
+  {
+    "id": "unlock",
+    "type": "solid"
+  },
+  {
+    "id": "unlock-alt",
+    "type": "solid"
+  },
+  {
+    "id": "unsplash",
+    "type": "brands"
+  },
+  {
+    "id": "untappd",
+    "type": "brands"
+  },
+  {
+    "id": "upload",
+    "type": "solid"
+  },
+  {
+    "id": "ups",
+    "type": "brands"
+  },
+  {
+    "id": "usb",
+    "type": "brands"
+  },
+  {
+    "id": "user",
+    "type": "regular"
+  },
+  {
+    "id": "user-alt",
+    "type": "solid"
+  },
+  {
+    "id": "user-alt-slash",
+    "type": "solid"
+  },
+  {
+    "id": "user-astronaut",
+    "type": "solid"
+  },
+  {
+    "id": "user-check",
+    "type": "solid"
+  },
+  {
+    "id": "user-circle",
+    "type": "regular"
+  },
+  {
+    "id": "user-clock",
+    "type": "solid"
+  },
+  {
+    "id": "user-cog",
+    "type": "solid"
+  },
+  {
+    "id": "user-edit",
+    "type": "solid"
+  },
+  {
+    "id": "user-friends",
+    "type": "solid"
+  },
+  {
+    "id": "user-graduate",
+    "type": "solid"
+  },
+  {
+    "id": "user-injured",
+    "type": "solid"
+  },
+  {
+    "id": "user-lock",
+    "type": "solid"
+  },
+  {
+    "id": "user-md",
+    "type": "solid"
+  },
+  {
+    "id": "user-minus",
+    "type": "solid"
+  },
+  {
+    "id": "user-ninja",
+    "type": "solid"
+  },
+  {
+    "id": "user-nurse",
+    "type": "solid"
+  },
+  {
+    "id": "user-plus",
+    "type": "solid"
+  },
+  {
+    "id": "user-secret",
+    "type": "solid"
+  },
+  {
+    "id": "user-shield",
+    "type": "solid"
+  },
+  {
+    "id": "user-slash",
+    "type": "solid"
+  },
+  {
+    "id": "user-tag",
+    "type": "solid"
+  },
+  {
+    "id": "user-tie",
+    "type": "solid"
+  },
+  {
+    "id": "user-times",
+    "type": "solid"
+  },
+  {
+    "id": "users",
+    "type": "solid"
+  },
+  {
+    "id": "users-cog",
+    "type": "solid"
+  },
+  {
+    "id": "users-slash",
+    "type": "solid"
+  },
+  {
+    "id": "usps",
+    "type": "brands"
+  },
+  {
+    "id": "ussunnah",
+    "type": "brands"
+  },
+  {
+    "id": "utensil-spoon",
+    "type": "solid"
+  },
+  {
+    "id": "utensils",
+    "type": "solid"
+  },
+  {
+    "id": "vaadin",
+    "type": "brands"
+  },
+  {
+    "id": "vector-square",
+    "type": "solid"
+  },
+  {
+    "id": "venus",
+    "type": "solid"
+  },
+  {
+    "id": "venus-double",
+    "type": "solid"
+  },
+  {
+    "id": "venus-mars",
+    "type": "solid"
+  },
+  {
+    "id": "vest",
+    "type": "solid"
+  },
+  {
+    "id": "vest-patches",
+    "type": "solid"
+  },
+  {
+    "id": "viacoin",
+    "type": "brands"
+  },
+  {
+    "id": "viadeo",
+    "type": "brands"
+  },
+  {
+    "id": "viadeo-square",
+    "type": "brands"
+  },
+  {
+    "id": "vial",
+    "type": "solid"
+  },
+  {
+    "id": "vials",
+    "type": "solid"
+  },
+  {
+    "id": "viber",
+    "type": "brands"
+  },
+  {
+    "id": "video",
+    "type": "solid"
+  },
+  {
+    "id": "video-slash",
+    "type": "solid"
+  },
+  {
+    "id": "vihara",
+    "type": "solid"
+  },
+  {
+    "id": "vimeo",
+    "type": "brands"
+  },
+  {
+    "id": "vimeo-square",
+    "type": "brands"
+  },
+  {
+    "id": "vimeo-v",
+    "type": "brands"
+  },
+  {
+    "id": "vine",
+    "type": "brands"
+  },
+  {
+    "id": "virus",
+    "type": "solid"
+  },
+  {
+    "id": "virus-slash",
+    "type": "solid"
+  },
+  {
+    "id": "viruses",
+    "type": "solid"
+  },
+  {
+    "id": "vk",
+    "type": "brands"
+  },
+  {
+    "id": "vnv",
+    "type": "brands"
+  },
+  {
+    "id": "voicemail",
+    "type": "solid"
+  },
+  {
+    "id": "volleyball-ball",
+    "type": "solid"
+  },
+  {
+    "id": "volume-down",
+    "type": "solid"
+  },
+  {
+    "id": "volume-mute",
+    "type": "solid"
+  },
+  {
+    "id": "volume-off",
+    "type": "solid"
+  },
+  {
+    "id": "volume-up",
+    "type": "solid"
+  },
+  {
+    "id": "vote-yea",
+    "type": "solid"
+  },
+  {
+    "id": "vr-cardboard",
+    "type": "solid"
+  },
+  {
+    "id": "vuejs",
+    "type": "brands"
+  },
+  {
+    "id": "walking",
+    "type": "solid"
+  },
+  {
+    "id": "wallet",
+    "type": "solid"
+  },
+  {
+    "id": "warehouse",
+    "type": "solid"
+  },
+  {
+    "id": "watchman-monitoring",
+    "type": "brands"
+  },
+  {
+    "id": "water",
+    "type": "solid"
+  },
+  {
+    "id": "wave-square",
+    "type": "solid"
+  },
+  {
+    "id": "waze",
+    "type": "brands"
+  },
+  {
+    "id": "weebly",
+    "type": "brands"
+  },
+  {
+    "id": "weibo",
+    "type": "brands"
+  },
+  {
+    "id": "weight",
+    "type": "solid"
+  },
+  {
+    "id": "weight-hanging",
+    "type": "solid"
+  },
+  {
+    "id": "weixin",
+    "type": "brands"
+  },
+  {
+    "id": "whatsapp",
+    "type": "brands"
+  },
+  {
+    "id": "whatsapp-square",
+    "type": "brands"
+  },
+  {
+    "id": "wheelchair",
+    "type": "solid"
+  },
+  {
+    "id": "whmcs",
+    "type": "brands"
+  },
+  {
+    "id": "wifi",
+    "type": "solid"
+  },
+  {
+    "id": "wikipedia-w",
+    "type": "brands"
+  },
+  {
+    "id": "wind",
+    "type": "solid"
+  },
+  {
+    "id": "window-close",
+    "type": "regular"
+  },
+  {
+    "id": "window-maximize",
+    "type": "regular"
+  },
+  {
+    "id": "window-minimize",
+    "type": "regular"
+  },
+  {
+    "id": "window-restore",
+    "type": "regular"
+  },
+  {
+    "id": "windows",
+    "type": "brands"
+  },
+  {
+    "id": "wine-bottle",
+    "type": "solid"
+  },
+  {
+    "id": "wine-glass",
+    "type": "solid"
+  },
+  {
+    "id": "wine-glass-alt",
+    "type": "solid"
+  },
+  {
+    "id": "wix",
+    "type": "brands"
+  },
+  {
+    "id": "wizards-of-the-coast",
+    "type": "brands"
+  },
+  {
+    "id": "wodu",
+    "type": "brands"
+  },
+  {
+    "id": "wolf-pack-battalion",
+    "type": "brands"
+  },
+  {
+    "id": "won-sign",
+    "type": "solid"
+  },
+  {
+    "id": "wordpress",
+    "type": "brands"
+  },
+  {
+    "id": "wordpress-simple",
+    "type": "brands"
+  },
+  {
+    "id": "wpbeginner",
+    "type": "brands"
+  },
+  {
+    "id": "wpexplorer",
+    "type": "brands"
+  },
+  {
+    "id": "wpforms",
+    "type": "brands"
+  },
+  {
+    "id": "wpressr",
+    "type": "brands"
+  },
+  {
+    "id": "wrench",
+    "type": "solid"
+  },
+  {
+    "id": "x-ray",
+    "type": "solid"
+  },
+  {
+    "id": "xbox",
+    "type": "brands"
+  },
+  {
+    "id": "xing",
+    "type": "brands"
+  },
+  {
+    "id": "xing-square",
+    "type": "brands"
+  },
+  {
+    "id": "y-combinator",
+    "type": "brands"
+  },
+  {
+    "id": "yahoo",
+    "type": "brands"
+  },
+  {
+    "id": "yammer",
+    "type": "brands"
+  },
+  {
+    "id": "yandex",
+    "type": "brands"
+  },
+  {
+    "id": "yandex-international",
+    "type": "brands"
+  },
+  {
+    "id": "yarn",
+    "type": "brands"
+  },
+  {
+    "id": "yelp",
+    "type": "brands"
+  },
+  {
+    "id": "yen-sign",
+    "type": "solid"
+  },
+  {
+    "id": "yin-yang",
+    "type": "solid"
+  },
+  {
+    "id": "yoast",
+    "type": "brands"
+  },
+  {
+    "id": "youtube",
+    "type": "brands"
+  },
+  {
+    "id": "youtube-square",
+    "type": "brands"
+  },
+  {
+    "id": "zhihu",
+    "type": "brands"
+  }
+]
